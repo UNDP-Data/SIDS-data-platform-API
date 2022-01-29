@@ -7,8 +7,8 @@
 
   <h3> Portfolio Data</h3>
 
-<h5>data/profiles/fundingCategories.json</h5>
-<h5>data/profiles/sidsPortfolioData.csv</h5>
+<h5>data/portfolio/fundingCategories.json</h5>
+<h5>data/portfolio/sidsPortfolioData.csv</h5>
 
 <br>
 
