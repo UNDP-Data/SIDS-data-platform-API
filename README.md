@@ -14,7 +14,7 @@
 
 <h3>Indicators</h3>
 
-<h5>data/indicators/{dataset code}/{indicator code}.json</h5>
+<h5>data/indicators/{indicatorCode.split("-")[0]}/{indicatorCode}.json</h5>
 <h5>data/indicators/indicatorMeta.json</h5>
 <h5>data/indicators/indicatorCategories.json</h5>
 
