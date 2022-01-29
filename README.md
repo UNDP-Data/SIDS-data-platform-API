@@ -1,22 +1,27 @@
 <h3> Country profile data</h3>
 
-  <h5> data/{country isocode}-profile.json </h5>
-  <h5> data/countryProfileMeta.json</h5>
+  <h5> data/profiles/{country isocode}.json</h5>
+  <h5> data/profiles/countryProfileMeta.json</h5>
 
 <br>
+
   <h3> Portfolio Data</h3>
 
-<h5>data/fundingCategories.json</h5>
-<h5>data/sidsPortfolioData.csv</h5>
+<h5>data/profiles/fundingCategories.json</h5>
+<h5>data/profiles/sidsPortfolioData.csv</h5>
+
 <br>
 
-<h3>Indicator and Index Data</h3>
+<h3>Indicators</h3>
 
-<h5>data/indexData-{datasetCode}.json</h5>
-<h5>data/indicatorData-{subcategory, camelCase}.json</h5>
-<h5>data/indicatorMeta.json</h5>
-<h5>data/indicatorCategories.json</h5>
+<h5>data/indicators/{dataset code}/{indicator code}.json</h5>
+<h5>data/indicators/indicatorMeta.json</h5>
+<h5>data/indicators/indicatorCategories.json</h5>
 
+<br>
 
+<h3>Indices</h3>
+<h5>data/indices/{dataset code}.json</h5>
+<h5>data/indices/indexWeights.json</h5>
 
 
