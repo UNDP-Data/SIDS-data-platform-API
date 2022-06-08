@@ -1,0 +1,10 @@
+{
+    "Model 2": {
+        "Modelling Approach": "year-by-year",
+        "Model Name": "Random Forest Regressor",
+        "Parameters": "n_estimators, maximum depth (tuned via cross-validation), initial_strategy=\"KNNimputer\"",
+        "Model Description": "A random forest is a meta estimator that fits a number of classifying decision trees on various sub-samples of the dataset. Run on a year-by-year basis ",
+        "Model Advantage": "uses averaging to improve the predictive accuracy and control over-fitting via bootsrapping",
+        "Model Drawback": "unknown"
+    }
+}
