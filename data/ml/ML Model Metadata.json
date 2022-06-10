@@ -22,5 +22,13 @@
         "Model Description": "estimator that fits a number of randomized decision trees (a.k.a. extra-trees) on various sub-samples of the dataset. Run on a year-by-year basis",
         "Model Advantage": "uses averaging to improve the predictive accuracy and control over-fitting via randomization, faster computation",
         "Model Drawback": "challenged by a high number of noisy features (in high dimensional data-sets)"
+    },
+    "Model 4": {
+        "Modelling Approach": "year-by-year",
+        "Model Name": "LGBM Regressor",
+        "Parameters": "Boosting type, maximum tree depth of base learners, number of boosted trees to fit (all selected via cross-validation) and feature importance type",
+        "Model Description": "LightGBM is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distributed and efficient. LightGBM has a faster rate of execution along with being able to maintain good accuracy levels primarily due to the utilization of two novel techniques: Gradient-Based One-Side Sampling (GOSS, retains instances with larger gradients and performs random sampling on instances with smaller gradients) and Exclusive Feature Bundling (EFB,a near lossless method to reduce the number of effective features)",
+        "Model Advantage": "Faster training speed and higher efficiency, Lower memory usage, Better accuracy, scaling to large data  ",
+        "Model Drawback": "leaf wise split can lead to overfitting, sensitivity to hyperparameters where small search space might lead to lack of learning (with features having zero importance)"
     }
 }
