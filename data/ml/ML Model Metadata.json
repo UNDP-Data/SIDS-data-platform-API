@@ -30,5 +30,13 @@
         "Model Description": "LightGBM is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distributed and efficient. LightGBM has a faster rate of execution along with being able to maintain good accuracy levels primarily due to the utilization of two novel techniques: Gradient-Based One-Side Sampling (GOSS, retains instances with larger gradients and performs random sampling on instances with smaller gradients) and Exclusive Feature Bundling (EFB,a near lossless method to reduce the number of effective features)",
         "Model Advantage": "Faster training speed and higher efficiency, Lower memory usage, Better accuracy, scaling to large data  ",
         "Model Drawback": "leaf wise split can lead to overfitting, sensitivity to hyperparameters where small search space might lead to lack of learning (with features having zero importance)"
+    },
+    "Model 5": {
+        "Modelling Approach": "timeseries",
+        "Model Name": "Extratree Regressor",
+        "Parameters": "n_estimators, maximum depth (tuned via cross-validation), initial_strategy=linear timeseries interpolation",
+        "Model Description": "estimator that fits a number of randomized decision trees (a.k.a. extra-trees) on various sub-samples of the dataset. Model utlizes timeseries nature of data so for predictions for a given year, information from all valid previous years is taken into account",
+        "Model Advantage": "takes into account historic information of indicators in SIDS,uses averaging to improve the predictive accuracy and control over-fitting via randomization, faster computation",
+        "Model Drawback": "smaller number of indicators covered since some indicators do not have historic information on SIDS, model is challenged by a high number of noisy features (in high dimensional data-sets)"
     }
 }
