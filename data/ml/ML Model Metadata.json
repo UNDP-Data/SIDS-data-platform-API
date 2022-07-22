@@ -38,5 +38,13 @@
         "Model Description": "estimator that fits a number of randomized decision trees (a.k.a. extra-trees) on various sub-samples of the dataset. Model utlizes timeseries nature of data so for predictions for a given year, information from all valid previous years is taken into account",
         "Model Advantage": "takes into account historic information of indicators in SIDS,uses averaging to improve the predictive accuracy and control over-fitting via randomization, faster computation",
         "Model Drawback": "smaller number of indicators covered since some indicators do not have historic information on SIDS, model is challenged by a high number of noisy features (in high dimensional data-sets)"
+    },
+    "Model 6": {
+        "Modelling Approach": "iterative",
+        "Model Name": "Iterative extra-tree imputer",
+        "Parameters": "for base estimator, bootsraping and out-of-bag sampling, warm_start enabled. For iteration, number of predictors set to 10 (measured using the absolute correlation coefficient between each feature pair), maximum iteration set to 5. All other hyperparameters set to default.",
+        "Model Description": " Multivariate imputer that estimates each feature  with missing values by modelling as a function of other features in a round-robin fashion across all years. . Each step of the round-robin imputation uses an extra-tree regressor as a base estimator. This is done in multiple iterations to accomodate for imputation bias.",
+        "Model Advantage": "Model takes in multiple years creating more data for training, multiple iterations might reduce bias, extra-tree base estimator uses averaging to improve the predictive accuracy and control over-fitting via randomization, faster computation ",
+        "Model Drawback": "prior imputed values used as part of a model in predicting subsequent features, bias not fully measured, requires larget memory, results depend on order of imputation"
     }
 }
