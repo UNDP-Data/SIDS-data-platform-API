@@ -12,7 +12,7 @@
                 "link": "https://spark.adobe.com/page/9myaX3gvA4gt5/"
             }
         ],
-        "image":"https://github.com/SIDS-Dashboard/api/blob/main/data/cms/images/sidsOffer.jpeg"
+        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/sidsOffer.jpeg"
     },
     {
         "name": "SIDS Data Handbook",
@@ -23,7 +23,7 @@
                 "link": "https://spark.adobe.com/page/KdCp73pb85itN/"
             }
         ],
-        "image":"https://github.com/SIDS-Dashboard/api/blob/main/data/cms/images/hdr.jpeg"
+        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/hdr.jpeg"
 
     },
     {
@@ -35,7 +35,7 @@
                 "link": "https://spark.adobe.com/page/KdCp73pb85itN/"
             }
         ],
-        "image":"https://github.com/SIDS-Dashboard/api/blob/main/data/cms/images/unAnthro.jpeg"
+        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/unAnthro.jpeg"
 
     },
     {
@@ -47,7 +47,7 @@
                 "link": "https://spark.adobe.com/page/KdCp73pb85itN/"
             }
         ],
-        "image":"https://github.com/SIDS-Dashboard/api/blob/main/data/cms/images/unValuingWater.jpeg"
+        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/unValuingWater.jpeg"
 
     }
 ]
