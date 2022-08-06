@@ -485,8 +485,7 @@
          "tourismRevenue": "Tourism Revenue (% of Exports)",
          "remittances": "Remittances (% of GDP)",
          "fdiInflows": "FDI Inflows (% of GDP)"
-      },
-      "aiInfo":"A statement to let people know that the ones with prediction intervals are the ones being predicted. A statement of what a 90% prediction interval for a point estimate means (basically, the model thinks that there is a 90% chance the prediction falls in that interval), or a link to a vetted website that gives easily understandable information about prediction intervals. nrmse is easy to interpret: it's between 0 & 1 and the lower, the better. So, if results for 2010 look bad ( absolutely wrong estimate and large prediction interval like Land Area), and the model also suggests a bad fit, with nrmse == 0.8, it gives more legitimacy to the feature."
+      }
    },
    "about": {
       "header": "About the SIDS Data Platform",
@@ -728,6 +727,8 @@
       "aboutThis-mvi": {
          "title": "About this",
          "content": "<p>In response to the unique context of SIDS and the acute lack of finance exacerbated by the COVID-19 pandemic, UNDP has developed a <a href='https://www.undp.org/publications/towards-multidimensional-vulnerability-index' target='_blank'> <b>Multidimensional Vulnerability Index (MVI)</b> </a> to reflect traditional as well as emerging risks facing not only SIDS but all developing countries. The MVI responds to calls from SIDS for the reassessment the eligibility for concessional financing beyond income level to accurately capture the vulnerability SIDS face. The MVI is a composite index of four dimensions of vulnerability: environmental, geographic, economic, and financial. Each dimension is calculated as an average of the normalized indicators selected for that dimension. Using 11 indicators for 128 countries (including 34 SIDS), the MVI demonstrates that all but five SIDS are far more vulnerable than their income level would suggest. Furthermore, a simulation comparing SIDS to LDCs demonstrates that, if the MVI were used as a financing criterion (rather than just income per capita), SIDS on average would save 1.5% of their GDP per annum in interest payments.</p> <p> The data from this paper is presented in a parametric interface with a customizable version of the MVI to allow analysis of the contributions of each indicator towards SIDS vulnerability. </p> <p> All data is from UNDESA and World Bank. </p>"
-      }
+      },
+      "aboutThis-ai":"A statement to let people know that the ones with prediction intervals are the ones being predicted. A statement of what a 90% prediction interval for a point estimate means (basically, the model thinks that there is a 90% chance the prediction falls in that interval), or a link to a vetted website that gives easily understandable information about prediction intervals. nrmse is easy to interpret: it's between 0 & 1 and the lower, the better. So, if results for 2010 look bad ( absolutely wrong estimate and large prediction interval like Land Area), and the model also suggests a bad fit, with nrmse == 0.8, it gives more legitimacy to the feature."
+
    }
 }
