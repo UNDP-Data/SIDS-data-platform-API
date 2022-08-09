@@ -336,9 +336,9 @@
       "fundingInfo": "If a specific funding source or category is specified, this is used as a filter for all projects that include that funding source. The pie chart can be used to view co-financing across funding categories based on the complete list of donors contributing to that filtered list of projects.",
       "export":{
          "intro":"The UNDP has wide-ranging portfolio supporting SIDS in advancing their national development priorities. UNDP’s support is delivered through a strong presence across the Pacific, Caribbean and AIS. It has a network of eight multi-country offices as well as stand-alone country offices in Bahrain, Cabo Verde, Comoros, Cuba, Dominican Republic, Guinea-Bissau, Haiti, Maldives, Papua New Guinea, São Tomé and Príncipe and Timor-Leste. Building on immediate response efforts, UNDP’s offer, Rising Up for SIDS, enhances its support, looking forward to long-term recovery to accelerate sustainable development. UNDP is expanding assistance in three multipliers that can accelerate progress, promote transformative and inclusive recovery, and build on the organization’s comparative advantage and specific expertise. These pillars of the offer are to enhance climate action, propel blue economies and catalyse digital transformation.",
-         "sdg":"The Sustainable Development Goals (SDGs), also known as the Global Goals, were adopted by the United Nations in 2015 as a universal call to action to end poverty, protect the planet, and ensure that by 2030 all people enjoy peace and prosperity. By measuring the budget allocation and number of UNDP projects across the goals, it allows a view into the focus area of UNDP within SIDS countries or regions.",
+         "sdgs":"The Sustainable Development Goals (SDGs), also known as the Global Goals, were adopted by the United Nations in 2015 as a universal call to action to end poverty, protect the planet, and ensure that by 2030 all people enjoy peace and prosperity. By measuring the budget allocation and number of UNDP projects across the goals, it allows a view into the focus area of UNDP within SIDS countries or regions.",
          "samoa":"The SAMOA Pathway (SIDS Accelerated Modalities of Action) reaffirms that SIDS remain a special case for sustainable development, recognizing SIDS's ownership and leadership in overcoming these challenges. The Pathway outlines 16 interlinked priority areas for development in SIDS eith a comprehensive framework of actions.",
-         "solutions":"To fulfill the aims of the Strategic Plan with the multi-dimensionality and complexity that the 2030 Agenda demands, UNDP is implementing six cross-cutting approaches to development, known as <b>Signature Solutions</b>. A robust, integrated way to put our best work - or 'signature' skillset - into achieving the Sustainable Development Goals.</p>"
+         "signature-solutions":"To fulfill the aims of the Strategic Plan with the multi-dimensionality and complexity that the 2030 Agenda demands, UNDP is implementing six cross-cutting approaches to development, known as <b>Signature Solutions</b>. A robust, integrated way to put our best work - or 'signature' skillset - into achieving the Sustainable Development Goals.</p>"
       }
    },
    "countryProfile": {
@@ -485,8 +485,7 @@
          "tourismRevenue": "Tourism Revenue (% of Exports)",
          "remittances": "Remittances (% of GDP)",
          "fdiInflows": "FDI Inflows (% of GDP)"
-      },
-      "aiInfo":"A statement to let people know that the ones with prediction intervals are the ones being predicted. A statement of what a 90% prediction interval for a point estimate means (basically, the model thinks that there is a 90% chance the prediction falls in that interval), or a link to a vetted website that gives easily understandable information about prediction intervals. nrmse is easy to interpret: it's between 0 & 1 and the lower, the better. So, if results for 2010 look bad ( absolutely wrong estimate and large prediction interval like Land Area), and the model also suggests a bad fit, with nrmse == 0.8, it gives more legitimacy to the feature."
+      }
    },
    "about": {
       "header": "About the SIDS Data Platform",
@@ -728,6 +727,10 @@
       "aboutThis-mvi": {
          "title": "About this",
          "content": "<p>In response to the unique context of SIDS and the acute lack of finance exacerbated by the COVID-19 pandemic, UNDP has developed a <a href='https://www.undp.org/publications/towards-multidimensional-vulnerability-index' target='_blank'> <b>Multidimensional Vulnerability Index (MVI)</b> </a> to reflect traditional as well as emerging risks facing not only SIDS but all developing countries. The MVI responds to calls from SIDS for the reassessment the eligibility for concessional financing beyond income level to accurately capture the vulnerability SIDS face. The MVI is a composite index of four dimensions of vulnerability: environmental, geographic, economic, and financial. Each dimension is calculated as an average of the normalized indicators selected for that dimension. Using 11 indicators for 128 countries (including 34 SIDS), the MVI demonstrates that all but five SIDS are far more vulnerable than their income level would suggest. Furthermore, a simulation comparing SIDS to LDCs demonstrates that, if the MVI were used as a financing criterion (rather than just income per capita), SIDS on average would save 1.5% of their GDP per annum in interest payments.</p> <p> The data from this paper is presented in a parametric interface with a customizable version of the MVI to allow analysis of the contributions of each indicator towards SIDS vulnerability. </p> <p> All data is from UNDESA and World Bank. </p>"
+      },
+      "aboutThis-ai": {
+         "title": "About this",
+         "content": "A statement to let people know that the ones with prediction intervals are the ones being predicted. A statement of what a 90% prediction interval for a point estimate means (basically, the model thinks that there is a 90% chance the prediction falls in that interval), or a link to a vetted website that gives easily understandable information about prediction intervals. nrmse is easy to interpret: it's between 0 & 1 and the lower, the better. So, if results for 2010 look bad ( absolutely wrong estimate and large prediction interval like Land Area), and the model also suggests a bad fit, with nrmse == 0.8, it gives more legitimacy to the feature."
       }
    }
 }
