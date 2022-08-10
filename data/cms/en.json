@@ -357,6 +357,7 @@
          "incomeHigh": "High income",
          "incomeUpMiddle": "Upper-middle income",
          "hdi": "Human Development Index",
+         "hdiVHigh": "Very high human development",
          "hdiHigh": "High human development",
          "hdiMedium": "Medium human development",
          "hdiLow": "Low human development",
