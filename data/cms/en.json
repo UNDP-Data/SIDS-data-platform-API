@@ -365,9 +365,9 @@
          "countryPage": "Country Page",
          "overlayCountries": "Overlay countries to compare indicator rank",
          "among": "among",
-         "sidsCountires": "SIDS countries",
-         "globally": "Globally",
-         "regionally": "Regionally",
+         "sids": "SIDS countries",
+         "global": "Globally",
+         "regional": "Regionally",
          "radarAnnotation": "Values for radar charts for each of the pillars of the SIDS Offer are displayed by rank among All SIDS countries for visualization purposes"
       }
    },
