@@ -85,6 +85,7 @@
       },
       "buttons": {
          "export": "export",
+         "subscribe": "subscribe",
          "about": "about this"
       },
       "forms": {
@@ -528,7 +529,8 @@
          "Programme Officer, SIDS",
          "For technical questions about the platform please contact",
          "Benjamin Keller"
-      ]
+      ],
+      "fBulletin": "Follow our biweekly SIDS Bulletin"
    },
    "finance": {
       "gdpAnnual": "GDP Growth (annual %)",
