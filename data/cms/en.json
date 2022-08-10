@@ -367,7 +367,7 @@
          "among": "among",
          "sids": "SIDS countries",
          "global": "Globally",
-         "regional": "Regionally",
+         "region": "Regionally",
          "radarAnnotation": "Values for radar charts for each of the pillars of the SIDS Offer are displayed by rank among All SIDS countries for visualization purposes"
       }
    },
