@@ -73,6 +73,8 @@
       "noData": "No Data",
       "link": "Link",
       "source": "Source",
+      "mv": "Multidimensional Vulnerability",
+      "mvi": "Multidimensional Vulnerability Index",
       "header": {
          "header": [
             "Data Platform",
