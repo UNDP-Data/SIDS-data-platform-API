@@ -65,6 +65,7 @@
    },
    "regions": {
       "caribbean": "Caribbean",
+      "allSids": "All SIDS",
       "ais": "AIS",
       "pacific": "Pacific"
    },
@@ -344,7 +345,6 @@
    },
    "countryProfile": {
       "header": "Country profile",
-      "allSids": "All SIDS",
       "infoBox": {
          "region": "Region",
          "office": "Country Office",
