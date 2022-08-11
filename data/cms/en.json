@@ -580,90 +580,91 @@
          "def": "Renewable energy consumption is the share of renewables energy in total final energy consumption.",
          "indicator": "Renewable energy consumption"
       },
-      "marineProtected": {
+      "key-wdi-ER-MRN-PTMR-ZS": {
          "def": "Marine protected areas are areas of intertidal or subtidal terrain--and overlying water and associated flora and fauna and historical and cultural features--that have been reserved by law or other effective means to protect part or all of the enclosed environment.",
          "indicator": "Marine protected areas (% of EEZ)"
       },
-      "numberOfPorts": {
+      "key-ports": {
+         "def": "",
          "indicator": "Number of ports"
       },
-      "fishStock": {
+      "key-epi-FSS": {
          "def": "Fish stock status evaluates the percentage of a country’s total catch that comes from overexploited or collapsed stocks, considering all fish stocks within a country’s EEZs. ",
          "indicator": "Fish Stock Status Environmental Performance Index"
       },
-      "travelAndTourism": {
+      "key-46": {
          "def": "The total contribution of travel and tourism to GDP reflects GDP generated directly by the travel and tourism sector plus its indirect and induced impacts.",
          "indicator": "Inernational Tourism Revenue as a % of GDP"
       },
-      "containerTraffic": {
+      "key-wdi-IS-SHP-GOOD-TU": {
          "def": "Port container traffic measures the flow of containers from land to sea transport modes., and vice versa, in twenty-foot equivalent units (TEUs), a standard-size container.",
          "indicator": "Container Port Traffic (TEU)"
       },
-      "ohi": {
+      "key-ohi-index-score": {
          "def": "The Ocean Health Index is an assessment tool that scientifically measures key elements from all dimensions of the ocean’s health — biological, physical, economic and social — to guide decision makers toward the sustainable use of the ocean.\\nFinal OHI score that takes into account current status and predicted future status.",
          "indicator": "Ocean Health Index"
       },
-      "osi": {
+      "key-egov-osi": {
          "def": "The online service index measures the use of ICTs by governments based on a survey of the online presence of Member States.",
          "indicator": "Online Service Index"
       },
-      "tii": {
+      "key-egov-tii": {
          "def": "This index is an average of five indicators per 100 inhabitants, including estimated Internet users, number of main fixed telephone lines, number of mobile subscribers, number of wireless broadband subscriptions, and number of fixed broadband subscriptions. ",
          "indicator": "Telecommunications Infrastructure Index"
       },
-      "hci": {
+      "key-egov-hci": {
          "def": "The human capital index is an average of four indicators, including adult literacy rate, gross enrollment ratio, estimated years of schooling, and mean years of schooling.",
          "indicator": "Human Capital Index"
       },
-      "edi": {
+      "key-egov-egi": {
          "def": "The E-Government Development Index is a weighted average of the Online Service Index, the Telecommunication Infrastructure Index, the E-Participation Index, and the Human Capital Index.",
          "indicator": "E-government Development Index"
       },
-      "gci": {
+      "key-itu-gci-score": {
          "def": "The Global Cybersecurity Index (GCI) assesses each country’s level of development or engagement along five pillars – (i) Legal Measures, (ii) Technical Measures, (iii) Organizational Measures, (iv) Capacity Development, and (v) Cooperation.",
          "indicator": "Cybersecurity Index (GCI)"
       },
-      "rfti": {
+      "key-rfti-score": {
          "def": "The index comprises five building blocks: ICT deployment, skills, R&D activity, industry activity and access to finance.",
          "indicator": "Readiness for Frontier Technologies Index"
       },
-      "exportConcentration": {
+      "key-mvi-ldc-XCON-Index": {
          "def": "Provides information on the exposure to trade shocks resulting from a concentrated export structure. Measures the product concentration of a country's exports",
          "indicator": "Export concentration"
       },
-      "exportInstability": {
+      "key-mvi-ldc-XIN-Index": {
          "def": "The standard deivation of the difference between the value of annual export earnings and its 20-year trend",
          "indicator": "Export Instability"
       },
-      "agriculturalInstability": {
+      "key-mvi-ldc-AIN-Index": {
          "def": "Defined as the standard deviation of the difference between agricultural production and its 20-year trend",
          "indicator": "Agricultural Instability"
       },
-      "tourismRevenues": {
+      "key-mvi-wdi2-ST-INT-RCPT-XP-ZS": {
          "def": "International tourism receipts are expenditures by international inbound visitors, including payments to national carriers for international transport.",
          "indicator": "Tourism revenues as share of exports"
       },
-      "remittances": {
+      "key-mvi-wdi-BX-TRF-PWKR-DT-GD-ZS": {
          "def": "Personal remittances comprise personal transfers and compensation of employees.",
          "indicator": "Remittances as percentage of GDP"
       },
-      "fdi": {
+      "key-mvi-wdi-BX-KLT-DINV-WD-GD-ZS": {
          "def": "Foreign direct investment are the net inflows of investment - the sum of equity capital, reinvestment of earnings, other long-term capital, and short-term capital as shown in the balance of payments.",
          "indicator": "FDI inflows as percentage of GDP"
       },
-      "agricultureAndFishing": {
+      "key-mvi-ldc-AFF-Index": {
          "def": "Defined as the percentage share of the agriculture, hunting, forestry, and fishing sectors in the gross value added of a country",
          "indicator": "Agriculture and fishing as share of GDP"
       },
-      "victimsOfDisasters": {
+      "key-mvi-ldc-VIC-Index": {
          "def": "Measures the share of population who are victims of disasters, defined as people killed or affected (i.e. requiring immediate food, water, shelter, sanitation, or medical assistance)",
          "indicator": "Victims of disasters"
       },
-      "remoteness": {
+      "key-mvi-ldc-REM-Index": {
          "def": "Defined as a trade-weighted average of a country's distance from world markets",
          "indicator": "Remoteness"
       },
-      "popLow": {
+      "key-mvi-ldc-LECZ-Index": {
          "def": "Population below 5m is the percentage of the total population living in areas where the elevation is 5 meters or less.",
          "indicator": "Share of population in low elevated coastal zones"
       }
