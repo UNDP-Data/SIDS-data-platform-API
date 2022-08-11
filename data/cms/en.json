@@ -556,27 +556,27 @@
       "source": "Source",
       "rank": "Rank",
       "value": "Value",
-      "redList": {
+      "key-hdr-181606": {
          "def": "Measure of the aggregate extinction risk across groups of species. It is based on genuine changes in the number of species in each category of extinction risk on the International Union for Conservation of Nature Red List of Threatened Species.",
          "indicator": "Red List Index"
       },
-      "terrestrialAndMarine": {
+      "key-wdi-ER-PTD-TOTL-ZS": {
          "def": "Terrestrial protected areas are designated by national authorities as either scientific reserves with limited public access, national parks, natural monuments, nature reserves or wildlife sanctuaries, protected landscapes, and areas managed mainly for sustainable use. Marine protected areas are areas of intertidal or subtidal terrain, and overlying water and associated flora and fauna and historical and cultural features.",
          "indicator": "Terrestrial and marine protected areas (% of total territorial area)"
       },
-      "climateVulnerabilityIndex": {
+      "key-ndgain-nd-vulnerability": {
          "def": "Vulnerability is the propensity or predisposition of human societies to be negatively impacted by climate hazards. ND-GAIN assesses the vulnerability of a country by considering six life-supporting sectors: food, water, health, ecosystem services, human habitat and infrastructure.",
          "indicator": "Climate Vulnerability Index"
       },
-      "disasterRiskReduction": {
+      "key-wdi-EN-CLC-DRSK-XQ": {
          "def": "Disaster risk reduction progress score is an average of self-assessment scores, ranging from 1 to 5, submitted by countries under Priority 1 of the Hyogo Framework National Progress Reports.",
          "indicator": "Disaster risk reduction progress score"
       },
-      "co2Emissions": {
+      "key-wdi-EN-ATM-CO2E-KT": {
          "def": "Carbon dioxide emissions are those stemming from the burning of fossil fuels and the manufacture of cement. They include carbon dioxide produced during consumption of solid, liquid, and gas fuels and gas flaring.",
          "indicator": "CO2 Emissions (kt)"
       },
-      "renewableEnergy": {
+      "key-wdi-EG-FEC-RNEW-ZS": {
          "def": "Renewable energy consumption is the share of renewables energy in total final energy consumption.",
          "indicator": "Renewable energy consumption"
       },
