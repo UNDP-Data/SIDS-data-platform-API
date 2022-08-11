@@ -72,7 +72,8 @@
    "root": {
       "export": {
          "csv": "Summary CSV",
-         "pdf": "Summary PDF"
+         "pdf": "Summary PDF",
+         "list": "Project List"
       },
       "noData": "No Data",
       "link": "Link",
