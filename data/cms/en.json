@@ -341,6 +341,7 @@
       },
       "budget": "Budget",
       "share": "Share",
+      "country": "Country",
       "projectTitle": "Project title",
       "fundingInfo": "If a specific funding source or category is specified, this is used as a filter for all projects that include that funding source. The pie chart can be used to view co-financing across funding categories based on the complete list of donors contributing to that filtered list of projects.",
       "export":{
