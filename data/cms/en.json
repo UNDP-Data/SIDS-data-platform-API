@@ -70,6 +70,10 @@
       "pacific": "Pacific"
    },
    "root": {
+      "export": {
+         "csv": "Summary CSV",
+         "pdf": "Summary PDF"
+      },
       "noData": "No Data",
       "link": "Link",
       "source": "Source",
