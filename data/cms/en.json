@@ -369,7 +369,7 @@
          "among": "among",
          "sids": "SIDS countries",
          "global": "Globally",
-         "region": "Regionally",
+         "regionally": "Regionally",
          "radarAnnotation": "Values for radar charts for each of the pillars of the SIDS Offer are displayed by rank among All SIDS countries for visualization purposes"
       }
    },
@@ -735,7 +735,7 @@
       },
       "aboutThis-ai": {
          "title": "About this",
-         "content": "A statement to let people know that the ones with prediction intervals are the ones being predicted. A statement of what a 90% prediction interval for a point estimate means (basically, the model thinks that there is a 90% chance the prediction falls in that interval), or a link to a vetted website that gives easily understandable information about prediction intervals. nrmse is easy to interpret: it's between 0 & 1 and the lower, the better. So, if results for 2010 look bad ( absolutely wrong estimate and large prediction interval like Land Area), and the model also suggests a bad fit, with nrmse == 0.8, it gives more legitimacy to the feature."
+         "content": "<p> Prediction Interval - A prediction interval is a range of values that represent the prediction for a missing value, based on the trained model. The prediction intervals shown here are 90% prediction intervals. They represent the model's certainty that the predicted value will fall into that range 90% of the time. </p><p> NRMSE - The Normalized Root Mean Square Error (NRMSE) is a standardization of the Root Mean Square Error (RMSE) performance measure to facilitate the comparison between models with different scales, so the NRMSE can be interpreted as a fraction of the overall range that is typically resolved by the model. NRMSE values close to 0 suggest a good performance of the model and those close to 1 suggest poor performance of the model.</p>"
       }
    }
 }
