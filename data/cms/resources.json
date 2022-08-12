@@ -12,42 +12,18 @@
                 "link": "https://spark.adobe.com/page/9myaX3gvA4gt5/"
             }
         ],
-        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/sidsOffer.jpeg"
+        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/undpSidsOffer.png"
     },
     {
-        "name": "SIDS Data Handbook",
-        "description": "A detailed overview of data avaliable on platform, data implications and data sourcces.",
+        "name": "UNDP SIDS Progress Report",
+        "description": "A detailed overview the UNDP Rising Up For SIDS Portfolio.",
         "links": [
             {
                 "name": "Download",
-                "link": "https://spark.adobe.com/page/KdCp73pb85itN/"
+                "link": "https://express.adobe.com/page/3hg2U1XZZ6yh9/"
             }
         ],
-        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/hdr.jpeg"
-
-    },
-    {
-        "name": "SIDS Data Platform Manual",
-        "description": "A detailed overview of data avaliable on platform, data implications and data sourcces.",
-        "links": [
-            {
-                "name": "Download",
-                "link": "https://spark.adobe.com/page/KdCp73pb85itN/"
-            }
-        ],
-        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/unAnthro.jpeg"
-
-    },
-    {
-        "name": "GIS Data Catalogue",
-        "description": "A detailed overview of GIS data avaliable on platform, data implications and data sourcces.",
-        "links": [
-            {
-                "name": "Download",
-                "link": "https://spark.adobe.com/page/KdCp73pb85itN/"
-            }
-        ],
-        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/unValuingWater.jpeg"
+        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/progressReport.jpeg"
 
     }
 ]
