@@ -328,7 +328,7 @@
       },
       "yearsAll": "2012 to 2021",
       "year": "Year",
-      "goals": "Goals",
+      "goal": "Goal",
       "goalType" : "Goal type",
       "projects": "Projects",
       "allSources": "All Funding Sources",
