@@ -327,7 +327,9 @@
          "funding": "Total Project Funding"
       },
       "yearsAll": "2012 to 2021",
-      "year": "Year",
+      "year": "Year",,
+      "goals": "Goals",
+      "goalTypes" : "Goal types",
       "projects": "Projects",
       "allSources": "All Funding Sources",
       "fundingTypes": {
