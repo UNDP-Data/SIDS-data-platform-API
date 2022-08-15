@@ -75,7 +75,8 @@
       "caribbean": "Caribbean",
       "allSids": "All SIDS",
       "ais": "AIS",
-      "pacific": "Pacific"
+      "pacific": "Pacific",
+      "regionalAvg": "Regional average"
    },
    "root": {
       "export": {
