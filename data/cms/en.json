@@ -391,6 +391,7 @@
       }
    },
    "gis": {
+      "header" : "Geospatial Data",
       "legend": {
          "noData": "No Data for this Region",
          "selectDataset": "Select a Datasets and Layers to view data on the map.",
@@ -472,6 +473,8 @@
       }
    },
    "indicators": {
+      "headerIndicators" : "Development Indicators",
+      "headerMVI" : "Multidimensional Vulnerability Index",
       "tabs": {
          "spider": "Spider",
          "bars": "Bar Chart",
