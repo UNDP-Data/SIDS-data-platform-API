@@ -7,6 +7,14 @@
       "gis": "Geospatial Data",
       "about": "About"
    },
+   "navigationMobile": {
+      "portfolio": "Portfolio",
+      "indicators": "Indicators",
+      "mvi": "MVI",
+      "profiles": "Profiles",
+      "gis": "GIS",
+      "about": "About"
+   },
    "countryNames": {
       "anguilla": "Anguilla",
       "antiguaAndBarbuda": "Antigua and Barbuda",
