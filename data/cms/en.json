@@ -499,20 +499,20 @@
       },
       "mvi": {
          "environmental": "Environmental",
-         "disasters": "Victims of Disasters",
-         "agricultureFishing": "Agriculture and Fishing (% of GDP)",
+         "mvi-ldc-VIC-Index": "Victims of Disasters",
+         "mvi-ldc-AFF-Index": "Agriculture and Fishing (% of GDP)",
          "geographic": "Geographic",
-         "remoteness": "Remoteness",
-         "drylands": "Population in Drylands",
-         "coastalZones": "% Population in Coastal Zones",
+         "mvi-ldc-REM-Index": "Remoteness",
+         "mvi-ldc-DRY-Index": "Population in Drylands",
+         "mvi-ldc-LECZ-Index": "% Population in Coastal Zones",
          "economic": "Economic",
-         "exportConcentration": "Export Concentration",
-         "exportInstability": "Export Instability",
-         "agriculturalInstability": "Agricultural Instability",
+         "mvi-ldc-XCON-Index": "Export Concentration",
+         "mvi-ldc-XIN-Index": "Export Instability",
+         "mvi-ldc-AIN-Index": "Agricultural Instability",
          "financial": "Financial",
-         "tourismRevenue": "Tourism Revenue (% of Exports)",
-         "remittances": "Remittances (% of GDP)",
-         "fdiInflows": "FDI Inflows (% of GDP)"
+         "mvi-wdi2-ST-INT-RCPT-XP-ZS": "Tourism Revenue (% of Exports)",
+         "mvi-wdi-BX-TRF-PWKR-DT-GD-ZS": "Remittances (% of GDP)",
+         "mvi-wdi-BX-KLT-DINV-WD-GD-ZS": "FDI Inflows (% of GDP)"
       }
    },
    "about": {
