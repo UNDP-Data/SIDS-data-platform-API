@@ -489,7 +489,9 @@
          "dimension": "Dimension",
          "region": "Region",
          "recent": "Recent value",
-         "sorting": "Sorting"
+         "sorting": "Sorting",
+         "allCategories": "All categories",
+         "allSubcategories": "All subcategories"
       },
       "filters": {
          "rank": "Rank",
