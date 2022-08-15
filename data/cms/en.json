@@ -487,7 +487,8 @@
          "indicator": "Indicator",
          "dimension": "Dimension",
          "region": "Region",
-         "recent": "Recent value"
+         "recent": "Recent value",
+         "sorting": "Sorting"
       },
       "filters": {
          "rank": "Rank",
