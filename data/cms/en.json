@@ -497,6 +497,11 @@
          "rank": "Rank",
          "region": "Region"
       },
+      "mviFilters": {
+         "mvi" : "MVI",
+         "evi": "EVI",
+         "custom": "Custom"
+      },
       "mvi": {
          "environmental": "Environmental",
          "mvi-ldc-VIC-Index": "Victims of Disasters",
