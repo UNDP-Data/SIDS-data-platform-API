@@ -744,6 +744,10 @@
       "aboutThis-ai": {
          "title": "About this",
          "content": "<p> Prediction Interval - A prediction interval is a range of values that represent the prediction for a missing value, based on the trained model. The prediction intervals shown here are 90% prediction intervals. They represent the model's certainty that the predicted value will fall into that range 90% of the time. </p><p> NRMSE - The Normalized Root Mean Square Error (NRMSE) is a standardization of the Root Mean Square Error (RMSE) performance measure to facilitate the comparison between models with different scales, so the NRMSE can be interpreted as a fraction of the overall range that is typically resolved by the model. NRMSE values close to 0 suggest a good performance of the model and those close to 1 suggest poor performance of the model.</p>"
+      },
+      "portfolio-financeSources": {
+         "title": "Finance sources",
+         "content": "Pie chart can be used to identify organisations that invest in similar projects or are focused on the same regions"
       }
    }
 }
