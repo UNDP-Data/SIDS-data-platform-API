@@ -518,6 +518,10 @@
          "mvi-wdi2-ST-INT-RCPT-XP-ZS": "Tourism Revenue (% of Exports)",
          "mvi-wdi-BX-TRF-PWKR-DT-GD-ZS": "Remittances (% of GDP)",
          "mvi-wdi-BX-KLT-DINV-WD-GD-ZS": "FDI Inflows (% of GDP)"
+      },
+      "export": {
+         "valuesLast": "Bar chart values are for the most recent year avaliable",
+         "report": "SIDS indicator report"
       }
    },
    "about": {
