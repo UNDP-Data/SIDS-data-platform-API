@@ -113,7 +113,8 @@
       "goals": {
          "samoa": "SAMOA Pathway",
          "sdgs": "Sustainable Development Goals",
-         "signature-solutions": "Signature solutions"
+         "signature-solutions": "Signature solutions",
+         "pillars": "SIDS offer Pillars"
       },
       "samoa": {
          "eGrowth": {
@@ -360,7 +361,8 @@
          "intro":"The UNDP has wide-ranging portfolio supporting SIDS in advancing their national development priorities. UNDP’s support is delivered through a strong presence across the Pacific, Caribbean and AIS. It has a network of eight multi-country offices as well as stand-alone country offices in Bahrain, Cabo Verde, Comoros, Cuba, Dominican Republic, Guinea-Bissau, Haiti, Maldives, Papua New Guinea, São Tomé and Príncipe and Timor-Leste. Building on immediate response efforts, UNDP’s offer, Rising Up for SIDS, enhances its support, looking forward to long-term recovery to accelerate sustainable development. UNDP is expanding assistance in three multipliers that can accelerate progress, promote transformative and inclusive recovery, and build on the organization’s comparative advantage and specific expertise. These pillars of the offer are to enhance climate action, propel blue economies and catalyse digital transformation.",
          "sdgs":"The Sustainable Development Goals (SDGs), also known as the Global Goals, were adopted by the United Nations in 2015 as a universal call to action to end poverty, protect the planet, and ensure that by 2030 all people enjoy peace and prosperity. By measuring the budget allocation and number of UNDP projects across the goals, it allows a view into the focus area of UNDP within SIDS countries or regions.",
          "samoa":"The SAMOA Pathway (SIDS Accelerated Modalities of Action) reaffirms that SIDS remain a special case for sustainable development, recognizing SIDS's ownership and leadership in overcoming these challenges. The Pathway outlines 16 interlinked priority areas for development in SIDS eith a comprehensive framework of actions.",
-         "signature-solutions":"To fulfill the aims of the Strategic Plan with the multi-dimensionality and complexity that the 2030 Agenda demands, UNDP is implementing six cross-cutting approaches to development, known as <b>Signature Solutions</b>. A robust, integrated way to put our best work - or 'signature' skillset - into achieving the Sustainable Development Goals.</p>"
+         "signature-solutions":"To fulfill the aims of the Strategic Plan with the multi-dimensionality and complexity that the 2030 Agenda demands, UNDP is implementing six cross-cutting approaches to development, known as <b>Signature Solutions</b>. A robust, integrated way to put our best work - or 'signature' skillset - into achieving the Sustainable Development Goals.</p>",
+         "pillars" : "UNDP’s SIDS offer – Rising Up for SIDS – presents an integrated approach for tapping into areas with potential to accelerate green recovery and transform societies based on three interconnected pillars and responds to the ambitions and demands SIDS expressed during the 2019 midterm review of the S.A.M.O.A. Pathway."
       }
    },
    "countryProfile": {
