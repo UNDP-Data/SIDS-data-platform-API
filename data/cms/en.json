@@ -393,6 +393,8 @@
    },
    "gis": {
       "header" : "Geospatial Data",
+      "compareEnabled" : "Comparison mode enabled",
+      "bivarEnabled": "Bivariate mode enabled",
       "legend": {
          "noData": "No Data for this Region",
          "selectDataset": "Select a Datasets and Layers to view data on the map.",
