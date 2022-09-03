@@ -472,19 +472,19 @@
     "mvi": {
        "environmental": "Ambiental",
        "disasters": "Víctimas de Desastres",
-       "agricultureFishing": "Agricultura y Pesca (% de PIB)",
+       "mvi-ldc-AFF-Index": "Agricultura y Pesca (% de PIB)",
        "geographic": "Geográfica",
-       "remoteness": "Remoto",
-       "drylands": "Población en tierras secas",
-       "coastalZones": "% Población en Zonas Costeras",
+       "mvi-ldc-REM-Index": "Remoto",
+       "mvi-ldc-DRY-Index": "Población en tierras secas",
+       "mvi-ldc-LECZ-Index": "% Población en Zonas Costeras",
        "economic": "Económica",
-       "exportConcentration": "Concentración de exportación",
-       "exportInstability": "Inestabilidad exportacion",
-       "agriculturalInstability": "Inestabilidad Agrícola",
+       "mvi-ldc-XCON-Index": "Concentración de exportación",
+       "mvi-ldc-XIN-Index": "Inestabilidad exportacion",
+       "mvi-ldc-AIN-Index": "Inestabilidad Agrícola",
        "financial": "Financiamento",
-       "tourismRevenue": "Ingresos Turísticos (% de exportaciones)",
-       "remittances": "Remesas (% de PIB)",
-       "fdiInflows": "IED (% de PIB)"
+       "mvi-wdi2-ST-INT-RCPT-XP-ZS": "Ingresos Turísticos (% de exportaciones)",
+       "mvi-wdi-BX-TRF-PWKR-DT-GD-ZS": "Remesas (% de PIB)",
+       "mvi-wdi-BX-KLT-DINV-WD-GD-ZS": "IED (% de PIB)"
     }
  },
  "about": {
@@ -531,134 +531,134 @@
     ]
  },
  "finance": {
-    "gdpAnnual": "Crecimiento del PIB (anual %)",
-    "gdppc": "PIB per cápita (Actual US$)",
-    "inglation": "Inflación, deflactor del PIB (anual %)",
-    "accountBalance": "Saldo de cuenta actual (% del PIB)",
-    "rir": "Tasa de interés real (%)",
-    "govDebt": "Deuda del gobierno central, total (% del PIB)",
-    "bankCapital": "Capital bancario, activos (%)",
-    "remmitancesGdp": "Remesas personales, recibido (% del PIB)",
-    "extDebt": "Saldos de la deuda externa (% del PIB)",
-    "fdiIn": "Inversión extranjera directa, entradas netas (BP,US$ actual)",
-    "fdiOut": "Inversión extranjera directa, salidas netas (BP, US$ actual)",
-    "odapc": "AOD neta recibida per cápita (US$ actual)",
-    "odacni": "AOD neta recibida(% del INB)",
-    "trade": "Comercio (% del PIB)"
+    "key-wdi2-NY-GDP-DEFL-KD-ZG": "Crecimiento del PIB (anual %)",
+    "key-wdi2-NY-GDP-PCAP-CD": "PIB per cápita (Actual US$)",
+    "key-wdi2-NY-GDP-MKTP-KD-ZG": "Inflación, deflactor del PIB (anual %)",
+    "key-wdi-BN-CAB-XOKA-GD-ZS": "Saldo de cuenta actual (% del PIB)",
+    "key-wdi-FR-INR-RINR": "Tasa de interés real (%)",
+    "key-wdi-GC-DOD-TOTL-GD-ZS": "Deuda del gobierno central, total (% del PIB)",
+    "key-wdi-FB-BNK-CAPA-ZS": "Capital bancario, activos (%)",
+    "key-wdi-BX-TRF-PWKR-DT-GD-ZS": "Remesas personales, recibido (% del PIB)",
+    "key-wdi-DT-DOD-DECT-GN-ZS": "Saldos de la deuda externa (% del PIB)",
+    "key-wdi-BX-KLT-DINV-CD-WD": "Inversión extranjera directa, entradas netas (BP,US$ actual)",
+    "key-wdi-BM-KLT-DINV-CD-WD": "Inversión extranjera directa, salidas netas (BP, US$ actual)",
+    "key-wdi-DT-ODA-ODAT-PC-ZS": "AOD neta recibida per cápita (US$ actual)",
+    "key-wdi-DT-ODA-ODAT-GN-ZS": "AOD neta recibida(% del INB)",
+    "key-wdi2-NE-TRD-GNFS-ZS": "Comercio (% del PIB)"
  },
  "spiders": {
     "definition": "Definición",
     "source": "Fuente",
     "rank": "Categoría",
     "value": "Valor",
-    "redList": {
+    "key-hdr-181606": {
        "def": "Medida del riesgo de extinción agregado entre grupos de especies, basada en los cambios en el número de especies en cada categoría de riesgo de extinción en la 'Lista Roja de Especies Amenazadas' de la ONU para la Conservación de la Naturaleza.",
        "indicator": "Índice de la Lista Roja"
     },
-    "terrestrialAndMarine": {
+    "key-wdi-ER-PTD-TOTL-ZS": {
        "def": "Las áreas protegidas terrestres son designadas por las autoridades nacionales como reservas científicas con acceso público limitado, parques nacionales, monumentos naturales, reservas naturales o santuarios de vida silvestre, paisajes protegidos y áreas gestionadas principalmente para un uso sostenible. Las áreas marinas protegidas son áreas de terreno intermareal o submareal, y el agua suprayacente y la flora y fauna asociadas y las características históricas y culturales.",
        "indicator": "Áreas protegidas terrestres y marinas (% del área territorial total)"
     },
-    "climateVulnerabilityIndex": {
+    "key-ndgain-nd-vulnerability": {
        "def": "La vulnerabilidad es la propensión o predisposición de las sociedades humanas, a verse afectadas negativamente por las amenazas climáticas. ND-GAIN evalúa la vulnerabilidad de un país considerando seis sectores que sostenien la vida: alimentos, agua, salud, servicios ecosistémicos, hábitat humano e infraestructura.",
        "indicator": "Índice de Vulnerabilidad Climática"
     },
-    "disasterRiskReduction": {
+    "key-wdi-EN-CLC-DRSK-XQ": {
        "def": "El puntaje de progreso en la reducción del riesgo de desastres es un promedio de los puntajes de autoevaluación, de 1 a 5, presentados por los países bajo la Prioridad 1 de los Informes Nacionales de Progreso del Marco de Hyogo.",
        "indicator": "Puntaje de progreso en la reducción del riesgo de desastres"
     },
-    "co2Emissions": {
+    "key-wdi-EN-ATM-CO2E-KT": {
        "def": "Las emisiones de dióxido de carbono son las derivadas de la quema de combustibles fósiles y la fabricación de cemento. Incluyen el dióxido de carbono producido durante el consumo de combustibles sólidos, líquidos y gaseosos y la quema de gas.",
        "indicator": "Emisiones de CO2 (kt)"
     },
-    "renewableEnergy": {
+    "key-wdi-EG-FEC-RNEW-ZS": {
        "def": "El consumo de energía renovable es la proporción de energía renovable en el consumo total de energía final.",
        "indicator": "Consumo de energías renovables"
     },
-    "marineProtected": {
+    "key-wdi-ER-MRN-PTMR-ZS": {
        "def": "Las áreas marinas protegidas son áreas de terreno intermareal o submareal, y el agua suprayacente y la flora y fauna asociadas y las características históricas y culturales, que han sido reservadas por ley u otros medios efectivos para proteger parte o la totalidad del entorno cerrado.",
        "indicator": "Áreas marinas protegidas (% de ZEE)"
     },
-    "numberOfPorts": {
+    "key-ports": {
        "indicator": "Número de puertos"
     },
-    "fishStock": {
+    "key-epi-FSS": {
        "def": "El estado de las poblaciones de peces evalúa el porcentaje de la captura total de un país que proviene de poblaciones sobreexplotadas o colapsadas, considerando todas las poblaciones de peces dentro de las ZEE de un país. ",
        "indicator": "Estado de la población de peces Índice de desempeño ambiental"
     },
-    "travelAndTourism": {
+    "key-46": {
        "def": "La contribución total de los viajes y el turismo al PIB refleja el PIB generado directamente por el sector de viajes y turismo más sus impactos indirectos e inducidos.",
        "indicator": "Ingresos del turismo internacional como % del PIB"
     },
-    "containerTraffic": {
+    "key-wdi-IS-SHP-GOOD-TU": {
        "def": "El tráfico portuario de contenedores mide el flujo de contenedores de los modos de transporte terrestre a marítimo, y viceversa, en unidades equivalentes a veinte pies (TEU), un contenedor de tamaño estándar.",
        "indicator": "Tráfico Portuario de Contenedores (TEU)"
     },
-    "ohi": {
+    "key-ohi-index-score": {
        "def": "El Ocean Health Index es una herramienta de evaluación que mide científicamente los elementos clave de todas las dimensiones de la salud del océano (biológica, física, económica y social) que sirve como una base y guia para los actores invulucrados hacia el uso sostinble del oceano. El puntaje final del índice de salud organizacional (OHI) demuestra el estado actual de la cuenta y estado futuro previsto.",
        "indicator": "Índice de salud de los océanos"
     },
-    "osi": {
+    "key-egov-osi": {
        "def": "El índice de servicios en línea mide el uso de las TIC por parte de los gobiernos a partir de una encuesta sobre la presencia en línea de los Estados miembros.",
        "indicator": "Índice de servicios en línea"
     },
-    "tii": {
+    "key-egov-tii": {
        "def": "Este índice es un promedio de cinco indicadores por cada 100 habitantes, incluidos los usuarios de Internet estimados, el número de líneas telefónicas fijas principales, el número de suscriptores móviles, el número de suscripciones de banda ancha inalámbrica y el número de suscripciones de banda ancha fija. ",
        "indicator": "Índice de Infraestructura de Telecomunicaciones"
     },
-    "hci": {
+    "key-egov-hci": {
        "def": "El índice de capital humano es un promedio de cuatro indicadores: procentaje de alfabetización de adultos, la tasa bruta de matriculación, los años de escolaridad estimados y el promedio de años de escolaridad.",
        "indicator": "Índice de Capital Humano"
     },
-    "edi": {
+    "key-egov-egi": {
        "def": "El Índice de desarrollo del gobierno electrónico es un promedio del: Índice de servicios en línea, el Índice de infraestructura de telecomunicaciones, el Índice de participación electrónica y el Índice de capital humano.",
        "indicator": "Índice de desarrollo del gobierno electrónico"
     },
-    "gci": {
+    "key-itu-gci-score": {
        "def": "El Índice de Ciberseguridad Global (GCI) evalúa el nivel de desarrollo o compromiso de cada país en cinco pilares: (i) Medidas legales, (ii) Medidas técnicas, (iii) Medidas organizativas, (iv) Desarrollo de capacidades y (v) Cooperación.",
        "indicator": "Índice de Ciberseguridad (GCI)"
     },
-    "rfti": {
+    "key-rfti-score": {
        "def": "El índice consiste de cinco componentes básicos: despliegue de TIC, habilidades, actividad de I+D, actividad de la industria y acceso a la financiación.",
        "indicator": "Índice de preparación para tecnologías fronterizas"
     },
-    "exportConcentration": {
+    "key-mvi-ldc-XCON-Index": {
        "def": "Contiene información sobre la exposición a 'choques comerciales', como reslutad de una estructura exportadora concentrada. Mide la concentración por productos de las exportaciones de un país",
        "indicator": "Concentración de exportaciones"
     },
-    "exportInstability": {
+    "key-mvi-ldc-XIN-Index": {
        "def": "The standard deivation of the difference between the value of annual export earnings and its 20-year trend",
        "indicator": "Inestabilidad del sector exportador"
     },
-    "agriculturalInstability": {
+    "key-mvi-ldc-AIN-Index": {
        "def": "Defined as the standard deviation of the difference between agricultural production and its 20-year trend",
        "indicator": "Inestabilidad Agrícola"
     },
-    "tourismRevenues": {
+    "key-mvi-wdi2-ST-INT-RCPT-XP-ZS": {
        "def": "Los ingresos por turismo internacional son los gastos de los visitantes internacionales, incluidos los pagos a los transportistas nacionales por el transporte internacional.",
        "indicator": "Ingresos del turismo como porcentaje de las exportaciones"
     },
-    "remittances": {
+    "key-mvi-wdi-BX-TRF-PWKR-DT-GD-ZS": {
        "def": "Las remesas personales incluyen las transferencias personales y la remuneración de los empleados.",
        "indicator": "Remesas como porcentaje del PIB"
     },
-    "fdi": {
+    "key-mvi-wdi-BX-KLT-DINV-WD-GD-ZS": {
        "def": "La inversión extranjera directa son las entradas netas de inversión: la suma del capital social, la reinversión de las ganancias. También incluye otros capitales de corto y largo plazo, como se muestra en la balanza de pagos.",
        "indicator": "Entradas de IED como porcentaje del PIB"
     },
-    "agricultureAndFishing": {
+    "key-mvi-ldc-AFF-Index": {
        "def": "Definido como la participación porcentual de los sectores de la agricultura, la caza, la silvicultura y la pesca en el valor agregado bruto de un país",
        "indicator": "Agricultura y pesca como porcentaje del PIB"
     },
-    "victimsOfDisasters": {
+    "key-mvi-ldc-VIC-Index": {
        "def": "Mide la proporción de la población que son víctima de desastres, definidos como personas fallecidas o afectadas (en necesidad de alimentos, agua, refugio, saneamiento o asistencia médica inmediata)",
        "indicator": "Víctimas de desastres"
     },
-    "remoteness": {
+    "key-mvi-ldc-REM-Index": {
        "def": "Definido como un promedio por el comercio de la distancia de un país a los mercados mundiales",
        "indicator": "Remoto"
     },
-    "popLow": {
+    "key-mvi-ldc-LECZ-Index": {
        "def": "La población por debajo de 5 m es el porcentaje de la población total que vive en áreas donde la elevación es de 5 metros o menos.",
        "indicator": "Porcentaje de población en zonas costeras bajas"
     }
