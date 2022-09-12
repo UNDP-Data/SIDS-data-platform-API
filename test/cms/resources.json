@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Rising Up for SIDS Offer",
+        "description": "UNDP’s integrated SIDS offer articulates a clear strategy to respond to their most pressing needs as well as bring forth innovative solutions to the complex developmental challenges they face for a better future for people and planet.",
+        "links": [
+            {
+                "name": " Full version",
+                "link": "https://spark.adobe.com/page/KdCp73pb85itN/"
+            },
+            {
+                "name": "Two-pager",
+                "link": "https://spark.adobe.com/page/9myaX3gvA4gt5/"
+            }
+        ],
+        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/undpSidsOffer.jpeg"
+    },
+    {
+        "name": "UNDP SIDS Progress Report",
+        "description": "A detailed overview the UNDP Rising Up For SIDS Portfolio.",
+        "links": [
+            {
+                "name": "Download",
+                "link": "https://express.adobe.com/page/3hg2U1XZZ6yh9/"
+            }
+        ],
+        "image":"https://raw.githubusercontent.com/SIDS-Dashboard/api/main/data/cms/images/progressReport.jpeg"
+
+    }
+]

@@ -1,0 +1,50 @@
+{
+    "Model 2": {
+        "Modelling Approach": "year-by-year",
+        "Model Name": "Random Forest Regressor",
+        "Parameters": "n_estimators, maximum depth (tuned via cross-validation), initial_strategy=\\\"KNNimputer\\\"",
+        "Model Description": "A random forest is a meta estimator that fits a number of classifying decision trees on various sub-samples of the dataset. Run on a year-by-year basis ",
+        "Model Advantage": "uses averaging to improve the predictive accuracy and reduce over-fitting via bootsrapping compared to decision trees.Processing high-dimensional data and feature-missing data are the strengths of random forest",
+        "Model Drawback": "Random forest predictions are more effective when the change in feature envrionment is minimal. That is, Random forest may overfit for data with much noise. It\u2019s also not easily interpretable. It might also struggle extrapolating linear trends"
+    },
+    "Model 3": {
+        "Modelling Approach": "year-by-year",
+        "Model Name": "Gradient boost Regressor",
+        "Parameters": "loss_function, learning_rate, n_estimators, maximum depth (tuned via cross-validation), initial_strategy=\\\"KNNimputer\\\"",
+        "Model Description": "builds an additive model in a forward stage-wise fashion. In each stage a regression tree is fit on the negative gradient of the given loss function. Run on a year-by-year basis",
+        "Model Advantage": "Higher point estimation accuracy",
+        "Model Drawback": "Overfitting especially when there is noisy data"
+    },
+    "Model 1": {
+        "Modelling Approach": "year-by-year",
+        "Model Name": "Extratree Regressor",
+        "Parameters": "n_estimators, maximum depth (tuned via cross-validation), initial_strategy=\"KNNimputer\"",
+        "Model Description": "estimator that fits a number of randomized decision trees (a.k.a. extra-trees) on various sub-samples of the dataset. Run on a year-by-year basis",
+        "Model Advantage": "uses averaging to improve the predictive accuracy and control over-fitting via randomization, faster computation",
+        "Model Drawback": "challenged by a high number of noisy features (in high dimensional data-sets)"
+    },
+    "Model 4": {
+        "Modelling Approach": "year-by-year",
+        "Model Name": "LGBM Regressor",
+        "Parameters": "Boosting type, maximum tree depth of base learners, number of boosted trees to fit (all selected via cross-validation) and feature importance type",
+        "Model Description": "LightGBM is a gradient boosting framework that uses tree based learning algorithms. It is designed to be distributed and efficient. LightGBM has a faster rate of execution along with being able to maintain good accuracy levels primarily due to the utilization of two novel techniques: Gradient-Based One-Side Sampling (GOSS, retains instances with larger gradients and performs random sampling on instances with smaller gradients) and Exclusive Feature Bundling (EFB,a near lossless method to reduce the number of effective features)",
+        "Model Advantage": "Faster training speed and higher efficiency, Lower memory usage, Better accuracy, scaling to large data  ",
+        "Model Drawback": "leaf wise split can lead to overfitting, sensitivity to hyperparameters where small search space might lead to lack of learning (with features having zero importance)"
+    },
+    "Model 5": {
+        "Modelling Approach": "timeseries",
+        "Model Name": "Extratree Regressor",
+        "Parameters": "n_estimators, maximum depth (tuned via cross-validation), initial_strategy=linear timeseries interpolation",
+        "Model Description": "estimator that fits a number of randomized decision trees (a.k.a. extra-trees) on various sub-samples of the dataset. Model utlizes timeseries nature of data so for predictions for a given year, information from all valid previous years is taken into account",
+        "Model Advantage": "takes into account historic information of indicators in SIDS,uses averaging to improve the predictive accuracy and control over-fitting via randomization, faster computation",
+        "Model Drawback": "smaller number of indicators covered since some indicators do not have historic information on SIDS, model is challenged by a high number of noisy features (in high dimensional data-sets)"
+    },
+    "Model 6": {
+        "Modelling Approach": "iterative",
+        "Model Name": "Iterative extra-tree imputer",
+        "Parameters": "for base estimator, bootsraping and out-of-bag sampling, warm_start enabled. For iteration, number of predictors set to 10 (measured using the absolute correlation coefficient between each feature pair), maximum iteration set to 5. All other hyperparameters set to default.",
+        "Model Description": " Multivariate imputer that estimates each feature  with missing values by modelling as a function of other features in a round-robin fashion across all years. . Each step of the round-robin imputation uses an extra-tree regressor as a base estimator. This is done in multiple iterations to accomodate for imputation bias.",
+        "Model Advantage": "Model takes in multiple years creating more data for training, multiple iterations might reduce bias, extra-tree base estimator uses averaging to improve the predictive accuracy and control over-fitting via randomization, faster computation ",
+        "Model Drawback": "prior imputed values used as part of a model in predicting subsequent features, bias not fully measured, requires larget memory, results depend on order of imputation"
+    }
+}
