@@ -507,20 +507,20 @@
         },
         "mvi": {
             "environmental": "Ambiental",
-            "disasters": "V\u00edctimas de Desastres",
-            "agricultureFishing": "Agricultura y Pesca (% de PIB)",
+            "mvi-ldc-VIC-Index": "V\u00edctimas de Desastres",
+            "mvi-ldc-AFF-Index": "Agricultura y Pesca (% de PIB)",
             "geographic": "Geogr\u00e1fica",
-            "remoteness": "Remoto",
-            "drylands": "Poblaci\u00f3n en tierras secas",
-            "coastalZones": "% Poblaci\u00f3n en Zonas Costeras",
+            "mvi-ldc-REM-Index": "Remoto",
+            "mvi-ldc-DRY-Index": "Poblaci\u00f3n en tierras secas",
+            "mvi-ldc-LECZ-Index": "% Poblaci\u00f3n en Zonas Costeras",
             "economic": "Econ\u00f3mica",
-            "exportConcentration": "Concentraci\u00f3n de exportaci\u00f3n",
-            "exportInstability": "Inestabilidad exportacion",
-            "agriculturalInstability": "Inestabilidad Agr\u00edcola",
+            "mvi-ldc-XCON-Index": "Concentraci\u00f3n de exportaci\u00f3n",
+            "mvi-ldc-XIN-Index": "Inestabilidad exportacion",
+            "mvi-ldc-AIN-Index": "Inestabilidad Agr\u00edcola",
             "financial": "Financiamento",
-            "tourismRevenue": "Ingresos Tur\u00edsticos (% de exportaciones)",
-            "remittances": "Remesas (% de PIB)",
-            "fdiInflows": "IED (% de PIB)"
+            "mvi-wdi2-ST-INT-RCPT-XP-ZS": "Ingresos Tur\u00edsticos (% de exportaciones)",
+            "mvi-wdi-BX-TRF-PWKR-DT-GD-ZS": "Remesas (% de PIB)",
+            "mvi-wdi-BX-KLT-DINV-WD-GD-ZS": "IED (% de PIB)"
         }
     },
     "about": {

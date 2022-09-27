@@ -508,20 +508,20 @@
         },
         "mvi": {
             "environmental": "Ambiental",
-            "disasters": "V\u00edtimas de Cat\u00e1strofes",
-            "agricultureFishing": "Agricultura e Pesca (% do PIB)",
+            "mvi-ldc-VIC-Index": "V\u00edtimas de Cat\u00e1strofes",
+            "mvi-ldc-AFF-Index": "Agricultura e Pesca (% do PIB)",
             "geographic": "Geogr\u00e1fico",
-            "remoteness": "Distanciamento",
-            "drylands": "Popula\u00e7\u00e3o em Terras Secas",
-            "coastalZones": "% Popula\u00e7\u00e3o em Zonas Costeiras",
+            "mvi-ldc-REM-Index": "Distanciamento",
+            "mvi-ldc-DRY-Index": "Popula\u00e7\u00e3o em Terras Secas",
+            "mvi-ldc-LECZ-Index": "% Popula\u00e7\u00e3o em Zonas Costeiras",
             "economic": "Econ\u00f4mico",
-            "exportConcentration": "Concentra\u00e7\u00e3o das Exporta\u00e7\u00f5es",
-            "exportInstability": "Instabilidade \u00e0 Exporta\u00e7\u00e3o",
-            "agriculturalInstability": "Instabilidade Agr\u00edcola",
+            "mvi-ldc-XCON-Index": "Concentra\u00e7\u00e3o das Exporta\u00e7\u00f5es",
+            "mvi-ldc-XIN-Index": "Instabilidade \u00e0 Exporta\u00e7\u00e3o",
+            "mvi-ldc-AIN-Index": "Instabilidade Agr\u00edcola",
             "financial": "Financeiro",
-            "tourismRevenue": "Receita do Turismo (% das Exporta\u00e7\u00f5es)",
-            "remittances": "Remessas (% do PIB)",
-            "fdiInflows": "Entradas de IDE (% do PIB)"
+            "mvi-wdi2-ST-INT-RCPT-XP-ZS": "Receita do Turismo (% das Exporta\u00e7\u00f5es)",
+            "mvi-wdi-BX-TRF-PWKR-DT-GD-ZS": "Remessas (% do PIB)",
+            "mvi-wdi-BX-KLT-DINV-WD-GD-ZS": "Entradas de IDE (% do PIB)"
         }
     },
     "about": {
