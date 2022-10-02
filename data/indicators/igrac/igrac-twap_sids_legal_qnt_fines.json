@@ -1,1 +1,0 @@
-{"igrac-twap_sids_legal_qnt_fines": {"data": {"recentValue": {}, "recentYear": {}}, "def": "", "name": "Fines for violation of regulation (SD.)", "source": "", "dataset": "", "category": "Characteristic", "subcategory": "None", "link": "https://staging.igrac.kartoza.com/layers/twap_public:twap_sids_legal_qnt_fines", "dim": "", "priority": "2.0", "units": "nan"}}
