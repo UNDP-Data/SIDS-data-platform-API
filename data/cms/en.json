@@ -368,7 +368,7 @@
    "countryProfile": {
       "header": "Country profile",
       "infoBox": {
-         "regionally": "Region",
+         "region": "Region",
          "office": "Country Office",
          "memberState": "Member State (Y/N)",
          "population": "Population",
