@@ -660,6 +660,10 @@
          "def": "The Global Cybersecurity Index (GCI) assesses each country’s level of development or engagement along five pillars – (i) Legal Measures, (ii) Technical Measures, (iii) Organizational Measures, (iv) Capacity Development, and (v) Cooperation.",
          "indicator": "Cybersecurity Index (GCI)"
       },
+      "key-sdg-ER_RSK_LST":{
+         "def":"The Red List Index (RLI) shows trends in overall extinction risk for species, and is used by governments to track their progress towards targets for reducing biodiversity loss.",
+         "indicator":"Red List Index"
+      },
       "key-rfti-score": {
          "def": "The index comprises five building blocks: ICT deployment, skills, R&D activity, industry activity and access to finance.",
          "indicator": "Readiness for Frontier Technologies Index"
@@ -703,6 +707,10 @@
       "key-mvi-ldc-LECZ-Index": {
          "def": "Population below 5m is the percentage of the total population living in areas where the elevation is 5 meters or less.",
          "indicator": "Share of population in low elevated coastal zones"
+      },
+      "key-mvi-ldc-DRY-Index":{
+         "def":"Defined as the percentage of population that lives in drylands, defined by long term averages as the ratio of precipitation to potential evapotranspiration (known as aridity index)",
+         "indicator":"Share of population living in drylands"
       }
    },
    "tooltips": {
