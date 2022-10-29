@@ -1,0 +1,45 @@
+{
+    "search": "search",
+    "interfaces": {
+        "header": "Interfaces for discovery and analysis of SIDS data",
+        "profiles": {
+            "header": "Country Profiles",
+            "description": "Country profiles for Small Island Developing States with data across the pillars of the UNDP’s SIDS Offer, financial statistics, and vulnerability index."
+        },
+        "indicators": {
+            "header": "Development Indicators",
+            "description": "A database of over 4000 development indicators for SIDS, compiled from 22 sources and featured alongside visualization and analytic tools."
+        },
+        "portfolio": {
+            "header": "UNDP Portfolio",
+            "description": "A digital tool for analyzing the UNDP SIDS Offer Portfolio across the SDGs, SAMOA Pathway priorities, and six UNDP Signature Solutions."
+        },
+        "gis": {
+            "header": "Geospatial Data",
+            "description": "A SIDS GIS portal and database compiled from more than 80 datasets and research studies with coverage of Small Island Developing States."
+        },
+        "mvi": {
+            "header": "Multidimensional Vulnerability Index",
+            "description": "A customizable Multidimensional Vulnerability Index (MVI) for SIDS to analyze environmental, geographic, economic, and financial vulnerability."
+        }
+    },
+    "resources": {
+        "header": "Resources",
+        "open": "open",
+        "handbook": {
+            "header": "SIDS Data Handbook",
+            "badge": "Indicators",
+            "description": "Country profiles for Small Island Developing States with data across the pillars of the UNDP’s SIDS Offer, financial statistics, and vulnerability index."
+        },
+        "catalog": {
+            "header": "SIDS GIS Catalogue",
+            "badge": "Maps",
+            "description": "A database of over 4000 development indicators for SIDS, compiled from 22 sources and featured alongside visualization and analytic tools."
+        },
+        "manual": {
+            "header": "Manual for the UNDP SIDS Data Platform",
+            "badge": "Manual",
+            "description": "A customizable Multidimensional Vulnerability Index (MVI) for SIDS to analyze environmental, geographic, economic, and financial vulnerability."
+        }
+    }
+}
