@@ -1,0 +1,16 @@
+{"twitter":{
+    "profiles":"See the development profile for {country} in",
+    "gis":"See GIS data portal for {layerTitle} in",    
+    "indicators":"See the indicator data for {indicator} in",
+    "portfolio":"See the UNDP portfolio allocation across the SDGs and SAMOA Pathway Priorities in",
+    "mvi":"Explore a customizable version of the Multidimensional Vulnerability Index in",
+    "general":"Explore"
+},"facebook":{
+    "profiles":"See the development profile for {country} in",
+    "gis":"See GIS data portal for {layerTitle} in",    
+    "indicators":"See the indicator data for {indicator} in",
+    "portfolio":"See the UNDP portfolio allocation across the SDGs and SAMOA Pathway Priorities in",
+    "mvi":"Explore a customizable version of the Multidimensional Vulnerability Index in",
+    "general":"Explore"
+},"all":" the UNDP SIDS Data Platform &#128073 {link} /br /br #RisingUpForSIDS"
+}
