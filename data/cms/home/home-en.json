@@ -1,5 +1,5 @@
 {
-    "search": "search",
+    "search": "Search",
     "interfaces": {
         "header": "Interfaces for discovery and analysis of SIDS data",
         "profiles": {
@@ -27,19 +27,19 @@
         "header": "Resources",
         "open": "open",
         "handbook": {
-            "header": "SIDS Data Handbook",
+            "header": "SIDS Indicator Handbook",
             "badge": "Indicators",
-            "description": "Country profiles for Small Island Developing States with data across the pillars of the UNDP’s SIDS Offer, financial statistics, and vulnerability index."
+            "description": "A database of over 4000 development indicators for SIDS, compiled from 22 sources and featured alongside visualization and analytic tools."
         },
         "catalog": {
             "header": "SIDS GIS Catalogue",
             "badge": "Maps",
-            "description": "A database of over 4000 development indicators for SIDS, compiled from 22 sources and featured alongside visualization and analytic tools."
+            "description": "Geospatial layers standardized from more than 80 unique data sources including open source studies and databases relevant to development in SIDS."
         },
         "manual": {
             "header": "Manual for the UNDP SIDS Data Platform",
             "badge": "Manual",
-            "description": "A customizable Multidimensional Vulnerability Index (MVI) for SIDS to analyze environmental, geographic, economic, and financial vulnerability."
+            "description": "Learn more about the SIDS Data Platform and how to interact with each interface and data visualization and analysis tool."
         }
     }
 }

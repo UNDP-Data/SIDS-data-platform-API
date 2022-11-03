@@ -1,0 +1,45 @@
+{
+    "search": "Pesquisar",
+    "interfaces": {
+        "header": "Interfaces para descoberta e análise de dados dos PEID",
+        "profiles": {
+            "header": "Perfis dos Países",
+            "description": "Perfis dos países para Pequenos Estados Insulares em Desenvolvimento com dados sobre os pilares da Oferta PEID do PNUD, estatísticas financeiras e índice de vulnerabilidade."
+        },
+        "indicators": {
+            "header": "Indicadores de Desenvolvimento",
+            "description": "Um banco de dados com mais de 4000 indicadores de desenvolvimento para PEID, compilado a partir de 22 fontes e apresentado junto de ferramentas de visualização e análise."
+        },
+        "portfolio": {
+            "header": "Portfólio do PNUD",
+            "description": "Uma ferramenta digital para analisar o Portfólio da Oferta PEID do PNUD através dos ODS, das prioridades do SAMOA Pathway e das seis Soluções Emblemáticas do PNUD."
+        },
+        "gis": {
+            "header": "Dados Geoespaciais",
+            "description": "Um portal PEID GIS e banco de dados compilado a partir de mais de 80 conjuntos de dados e estudos de pesquisa com cobertura dos Pequenos Estados Insulares em Desenvolvimento."
+        },
+        "mvi": {
+            "header": "Índice de Vulnerabilidade Multidimensional",
+            "description": "Um Índice de Vulnerabilidade Multidimensional (MVI) personalizável para PEID para analisar a vulnerabilidade ambiental, geográfica, econômica e financeira."
+        }
+    },
+    "resources": {
+        "header": "Recursos",
+        "open": "abrir",
+        "handbook": {
+            "header": "Manual de Dados PEID",
+            "badge": "Indicadores",
+            "description": "Um banco de dados com mais de 4000 indicadores de desenvolvimento para PEID, compilado a partir de 22 fontes e apresentado junto de ferramentas de visualização e análise."
+        },
+        "catalog": {
+            "header": "Catálogo PEID GIS",
+            "badge": "Mapas",
+            "description": "Camadas geoespaciais padronizadas a partir de mais de 80 fontes de dados exclusivas, incluindo estudos de código aberto e bancos de dados relevantes para o desenvolvimento em PEID."
+        },
+        "manual": {
+            "header": "Manual para a Plataforma de Dados PEID do PNUD",
+            "badge": "Manual",
+            "description": "Saiba mais sobre a Plataforma de Dados SIDS e como interagir com cada interface e ferramenta de visualização e análise de dados."
+        }
+    }
+}

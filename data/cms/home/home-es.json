@@ -1,0 +1,45 @@
+{
+    "search": "Buscar",
+    "interfaces": {
+        "header": "Interfaces para el descubrimiento y análisis de los datos del PEID",
+        "profiles": {
+            "header": "Perfiles de países",
+            "description": "Perfiles de países de los Pequeños Estados Insulares en Desarrollo con información sobre los componentes de la oferta de los PEID del PNUD, estadísticas financieras e índices de vulnerabilidad."
+        },
+        "indicators": {
+            "header": "Indicadores de desarrollo",
+            "description": "Una base de información con más de 4.000 indicadores de desarrollo para los PEID, compilados a partir de 22 fuentes y presentada junto con herramientas de visualización y análisis."
+        },
+        "portfolio": {
+            "header": "Portafolio del PNUD",
+            "description": "Una herramienta digital para analizar el portafolio de ofertas de los PEID del PNUD a través de los Objetivos y metas de desarrollo sostenible, y las prioridades de trayectoria de SAMOA así como las seis iniciativas del PNUD."
+        },
+        "gis": {
+            "header": "Datos geoespaciales",
+            "description": "Una base de datos para los Pequeños Estados Insulares en Desarrollo y el Sistema de Información Geográfica, elaborado a partir de 80 conjuntos de datos y estudios de investigación con contenido sobre los pequeños Estados insulares en desarrollo."
+        },
+        "mvi": {
+            "header": "Índice de Vulnerabilidad Multidimensional",
+            "description": "Un Índice de Vulnerabilidad Multidimensional (IVM) personalizable para los PEID que permite analizar la vulnerabilidad medioambiental, geográfica, económica y financiera."
+        }
+    },
+    "resources": {
+        "header": "Recursos",
+        "open": "abrir",
+        "handbook": {
+            "header": "Manual de datos sobre el PEID",
+            "badge": "Indicadores",
+            "description": "Una base de datos con más de 4.000 indicadores de desarrollo para los PEID, elaborada a partir de 22 fuentes y que incluye herramientas de visualización y análisis."
+        },
+        "catalog": {
+            "header": "Catálogo del PEID y del sistema de información geográfica",
+            "badge": "Mapas",
+            "description": "Capas geoespaciales estandarizadas a partir de más de 80 fuentes de datos únicas, incluidos estudios de código abierto y bases de datos relevantes para el desarrollo en los PEID."
+        },
+        "manual": {
+            "header": "Manual para la plataforma de datos de los PEID del PNUD",
+            "badge": "Manual",
+            "description": "Obtenga más información sobre la plataforma de datos PEID y cómo interactuar con cada interfaz y herramienta de análisis y visualización de datos."
+        }
+    }
+}
