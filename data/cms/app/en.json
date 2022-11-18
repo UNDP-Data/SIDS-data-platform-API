@@ -367,6 +367,7 @@
    },
    "countryProfile": {
       "header": "Country profile",
+      "noCountryData":"Insufficient data available for visualization.",
       "infoBox": {
          "region": "Region",
          "regionally": "Region",
