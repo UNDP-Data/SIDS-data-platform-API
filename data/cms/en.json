@@ -392,8 +392,7 @@
          "sids": "SIDS countries",
          "global": "Globally",
          "mviAnnotation": "Values for each indicator for vulnerability are normalized among all countries with available data on a scale from 0 to 100", 
-         "radarAnnotation": "Values for radar charts for each of the pillars of the SIDS Offer are displayed by rank among All SIDS countries for visualization purposes",
-         "radarAnnotationNew" : {
+         "radarAnnotation" : {
             "global" : "Values for radar charts for each of the pillars of the SIDS Offer are displayed by global rank for visualization purposes",
             "region" : "Values for radar charts for each of the pillars of the SIDS Offer are displayed by regional rank for visualization purposes",
             "sids" : "Values for radar charts for each of the pillars of the SIDS Offer are displayed by rank among All SIDS countries for visualization purposes"
