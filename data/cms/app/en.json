@@ -409,6 +409,7 @@
          "x": "X axis",
          "y": "Y axis"
       },
+      "newTab": "New tab",
       "controller": {
          "rightDataset": "Right Dataset",
          "secondDataset": "Second Dataset",
