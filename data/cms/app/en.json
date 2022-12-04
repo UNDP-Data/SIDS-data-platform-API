@@ -479,6 +479,7 @@
          "value": "Value",
          "class": "Class",
          "firstValue": "First value",
+         "secondValue": "Second value",
          "regionalStatistics": "Regional statistics",
          "mean": "Mean"
       }
