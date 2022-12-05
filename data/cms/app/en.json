@@ -370,7 +370,7 @@
       "noCountryData":"Insufficient data available for visualization.",
       "infoBox": {
          "key-sids-region": "Region",
-         "regionally": "Region",
+         "region": "Region",
          "key-countryOffice": "Country Office",
          "key-un-member": "Member State (Y/N)",
          "key-wdi2-SP-POP-TOTL": "Population",
