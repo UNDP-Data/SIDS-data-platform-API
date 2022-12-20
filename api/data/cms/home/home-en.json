@@ -41,5 +41,13 @@
             "badge": "Manual",
             "description": "Learn more about the SIDS Data Platform and how to interact with each interface and data visualization and analysis tool."
         }
-    }
+    },
+    "sidsOffer":{
+      "name": "Rising Up for SIDS Offer",
+      "description": "UNDP’s integrated SIDS offer articulates a clear strategy to respond to their most pressing needs as well as bring forth innovative solutions to the complex developmental challenges they face for a better future for people and planet."
+    },
+"progressReport":{
+  "name": "UNDP SIDS Progress Report",
+  "description": "A detailed overview the UNDP Rising Up For SIDS Portfolio."
+}
 }
