@@ -29,20 +29,17 @@
         "handbook": {
             "header": "SIDS Indicator Handbook",
             "badge": "Indicators",
-            "description": "A database of over 4000 development indicators for SIDS, compiled from 22 sources and featured alongside visualization and analytic tools.",
-            "link":"https://github.com/UNDP-Data/SIDS-data-platform-API/blob/staging/resources/SDP%20Indicator%20Catalogue.pdf"
+            "description": "A database of over 4000 development indicators for SIDS, compiled from 22 sources and featured alongside visualization and analytic tools."
         },
         "catalog": {
             "header": "SIDS GIS Catalogue",
             "badge": "Maps",
-            "description": "Geospatial layers standardized from more than 80 unique data sources including open source studies and databases relevant to development in SIDS.",
-            "link":"https://github.com/UNDP-Data/SIDS-data-platform-API/blob/staging/resources/SDP%20GIS%20Data%20Catalogue.pdf"
+            "description": "Geospatial layers standardized from more than 80 unique data sources including open source studies and databases relevant to development in SIDS."
         },
         "manual": {
             "header": "Manual for the UNDP SIDS Data Platform",
             "badge": "Manual",
-            "description": "Learn more about the SIDS Data Platform and how to interact with each interface and data visualization and analysis tool.",
-            "link":"https://github.com/UNDP-Data/SIDS-data-platform-API/blob/staging/resources/SDP%20Written%20Manual.pdf"
+            "description": "Learn more about the SIDS Data Platform and how to interact with each interface and data visualization and analysis tool."
         }
     }
 }

@@ -29,20 +29,14 @@
         "handbook": {
             "header": "Manual de Dados PEID",
             "badge": "Indicadores",
-            "description": "Um banco de dados com mais de 4000 indicadores de desenvolvimento para PEID, compilado a partir de 22 fontes e apresentado junto de ferramentas de visualização e análise.",
-            "link":"https://github.com/UNDP-Data/SIDS-data-platform-API/blob/staging/resources/SDP%20Indicator%20Catalogue.pdf"
-        },
+            "description": "Um banco de dados com mais de 4000 indicadores de desenvolvimento para PEID, compilado a partir de 22 fontes e apresentado junto de ferramentas de visualização e análise."        },
         "catalog": {
             "header": "Catálogo PEID GIS",
             "badge": "Mapas",
-            "description": "Camadas geoespaciais padronizadas a partir de mais de 80 fontes de dados exclusivas, incluindo estudos de código aberto e bancos de dados relevantes para o desenvolvimento em PEID.",
-            "link":"https://github.com/UNDP-Data/SIDS-data-platform-API/blob/staging/resources/SDP%20GIS%20Data%20Catalogue.pdf"
-        },
+            "description": "Camadas geoespaciais padronizadas a partir de mais de 80 fontes de dados exclusivas, incluindo estudos de código aberto e bancos de dados relevantes para o desenvolvimento em PEID."        },
         "manual": {
             "header": "Manual para a Plataforma de Dados PEID do PNUD",
             "badge": "Manual",
-            "description": "Saiba mais sobre a Plataforma de Dados SIDS e como interagir com cada interface e ferramenta de visualização e análise de dados.",
-            "link":"https://github.com/UNDP-Data/SIDS-data-platform-API/blob/staging/resources/SDP%20Written%20Manual.pdf"
-        }
+            "description": "Saiba mais sobre a Plataforma de Dados SIDS e como interagir com cada interface e ferramenta de visualização e análise de dados."        }
     }
 }
