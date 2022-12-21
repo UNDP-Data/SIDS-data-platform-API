@@ -1,12 +1,13 @@
 {
     "search": "Buscar",
+    "poweredBy": "Impulsado por la Plataforma Data Futures de PNUD",
     "header":{
-    "header":[
-        "Plataforma de Datos",
-        "para los",
-        "PEQUEÑOS ESTADOS INSULARES EN DESARROLLO"
-    ],
-    "description":"El enfoque integrado del PNUD apoya a los Pequeños Estados Insulares en Desarrollo para acelerar el desarrollo transformador basado en tres pilares: Acción Climática, Economía Azul y Transformación Digital."
+        "header":[
+            "Plataforma de Datos",
+            "para los",
+            "PEQUEÑOS ESTADOS INSULARES EN DESARROLLO"
+        ],
+        "description":"El enfoque integrado del PNUD apoya a los Pequeños Estados Insulares en Desarrollo para acelerar el desarrollo transformador basado en tres pilares: Acción Climática, Economía Azul y Transformación Digital."
     },
      "about":{
       "fBulletin":"Siga nuestro Boletín quincenal sobre PEID",
