@@ -1,5 +1,249 @@
 {
     "search": "Recherche",
+    "header":{
+        "header":[
+            "Plate-forme de données",
+            "pour les",
+            "PETITS ÉTATS INSULAIRES EN DÉVELOPPEMENT"
+        ],
+        "description":"L’approche intégrée du PNUD permet aux petits États insulaires en développement d’accélérer un développement transformateur basé sur trois piliers : Action pour le climat, économie bleue et transformation numérique."
+    },
+    "about":{
+      "header":"À propos de la plate-forme de données PEID",
+      "whatSids":"Que sont les petits États insulaires en développement ?",
+      "whatSidsContent":[
+         "Les <a href='http://unohrlls.org/about-sids/'>petits États insulaires en développement (PEID)</a> constituent un groupe distinct de 38 États membres de l’ONU et de 20 États non membres de l’ONU/membres associés des commissions régionales des Nations unies, qui sont confrontés à des vulnérabilités sociales, économiques et environnementales uniques. Les trois régions géographiques dans lesquelles se trouvent les PEID sont : les Caraïbes, le Pacifique, et l’Atlantique, l’océan Indien et la mer de Chine méridionale (AIS).",
+         "Les PEID ont été reconnus comme un cas particulier tant pour leur environnement que pour leur développement lors de la Conférence des Nations Unies sur l’environnement et le développement qui s’est tenue à Rio de Janeiro (Brésil) en 1992.",
+         "La population totale de tous les PEID est de 65 millions d’habitants, soit un peu moins de 1 % de la population mondiale, mais ce groupe est confronté à des défis sociaux, économiques et environnementaux uniques.",
+         "Les PEID sont confrontés à une multitude de défis, dont, pour beaucoup, leur éloignement géographique. En conséquence, de nombreux PEID sont confrontés à des coûts élevés d’importation et d’exportation de marchandises ainsi qu’à des volumes de trafic international irréguliers. Pourtant, ils doivent compter sur les marchés extérieurs pour de nombreux biens en raison de l’étroitesse de leur base de ressources."
+      ],
+      "whatOffer":"Qu’est-ce que l’Offre PEID du PNUD ?",
+      "whatOfferContent":[
+         "L’offre du PNUD pour les PEID - <a href='https://www.sparkblue.org/dashboard/small-island-developing-states'>Rising Up for SIDS - </a> présente une approche intégrée pour exploiter les domaines ayant le potentiel d’accélérer la relance verte et de transformer les sociétés, sur la base de trois piliers interconnectés : Action pour le climat, économie bleue et transformation numérique. L’offre répond aux ambitions et aux demandes exprimées par les PEID lors de l’examen à mi-parcours de 2019 des Orientations de Samoa. Elle comprend des mesures renforçant l’engagement programmatique du PNUD, augmentant notre capacité à répondre aux défis urgents et améliorant l’agilité organisationnelle.",
+         "Action pour le climat - Promouvoir des sociétés décarbonisées et résilientes grâce à une action renforcée pour le climat et à des efforts accrus pour mobiliser le financement climatique.</p>",
+         "Économie bleue - Exploiter l’économie bleue par une approche intégrée ancrée dans la finance et le développement durables.</p>",
+         "Transformation numérique - Accélérer la transformation numérique par une approche globale de la société qui place les personnes au centre pour des sociétés inclusives et des économies résilientes.",
+         "Financement du développement - Aider les PEID à mobiliser des fonds pour le développement en saisissant les opportunités d’innovation financière telles que : les solutions de finance bleue, l’assurance des risques, catalyser l’investissement du secteur privé et tirer parti de la mobilisation des ressources nationales."
+      ],
+      "whatPlatform":"Qu’est-ce que la plate-forme de données PEID ?",
+      "whatPlatformContent":"La plateforme de données du PNUD pour les petits États insulaires en développement est un outil numérique destiné à accélérer le développement des PEID en fournissant aux décideurs politiques, aux institutions de recherche et aux bureaux nationaux un accès à des données actualisées, normalisées et complètes. En tant qu’élément central de l’Offre PEID du PNUD, les fonctionnalités de visualisation et d’analyse de cette plateforme aideront les PEID à répondre aux Orientations de Samoa et au Programme de développement durable à l’horizon 2030 en relevant les défis urgents du changement climatique et de leur transition verte et bleue. En se concentrant sur les besoins des PEID, cet outil a été conçu spécifiquement pour présenter des jeux de données sur la transformation numérique, l’économie bleue et l’action climatique. Il existe trois principaux types de données au sein de la plateforme de données PEID, notamment des données sur le portefeuille de projets et d’investissements du PNUD dans les PEID, des indicateurs de développement au niveau national et des données géospatiales. Pour chaque type de données, nous avons développé des interfaces au sein de la plateforme pour visualiser, analyser et exporter ces données.",
+      "whatSources":"Quelles sont les sources de données utilisées ?",
+      "whatSourcesContent":"La plateforme de données sur les PEID utilise tous les ensembles de données accessibles au public provenant d’une large base d’agences partenaires et de publications de recherche. Il s’agit de données provenant de la Banque mondiale, de l’OMS, de l’UNICEF, du DESA, de l’IRENA, de l’UIT, de l’IGRAC, de l’IHME, de la FAO, de la CNUCED, de Yale, du CIESIN, de l’OCDE, de l’OIT et de nombreuses autres sources. Toutes les citations sont fournies avec le jeu de données correspondant au sein de la plateforme. Nous nous sommes efforcés de sélectionner les données afin de présenter des informations fiables, précises et complètes.",
+      "whatFuture":"Quelles sont les futures étapes de développement de cette plateforme de données ?",
+      "whatFutureContent":"La phase actuelle s’est concentrée sur l’agrégation et la visualisation d’ensembles de données publiques relatives au développement dans les PEID afin de soutenir l’élaboration des politiques et d’offrir une opportunité de collaboration internationale, régionale et sous-régionale entre PEID et PEID. Dans la phase suivante, nous avons l’intention d’utiliser ces ensembles de données collationnées pour créer des outils d’analyse qui identifient les tendances et génèrent des idées spécifiquement axées sur les défis du développement et les solutions pertinentes pour les PEID.",
+      "whatContact":"Qui dois-je contacter pour en savoir plus ?",
+      "whatContactContent":[
+         "Pour en savoir plus sur l’Offre PEID du PNUD, rendez-vous sur notre <a href='https://www.sparkblue.org/dashboard/small-island-developing-states'> page SparkBlue</a>.",
+         "Pour toute question concernant l’Offre PEID du PNUD, « Rising up for SIDS », contactez :",
+         "Riad Meddeb, conseiller principal pour les PEID",
+         "Pour toute question technique concernant la plate-forme, contactez :",
+         "Benjamin Keller, spécialiste des données relatives aux PEID"
+      ],
+      "fBulletin":"Suivez notre Bulletin bihebdomadaire sur les PEID"
+   },
+   "finance":{
+      "key-wdi2-NY-GDP-DEFL-KD-ZG":"Croissance du PIB (% annuel)",
+      "key-wdi2-NY-GDP-PCAP-CD":"PIB par habitant (US$ actuels)",
+      "key-wdi2-NY-GDP-MKTP-KD-ZG":"Inflation, déflateur du PIB (% annuel)",
+      "key-wdi-BN-CAB-XOKA-GD-ZS":"Balance des comptes courants (% du PIB)",
+      "key-wdi-FR-INR-RINR":"Taux d’intérêt réel (%)",
+      "key-wdi-GC-DOD-TOTL-GD-ZS":"Dette de l’administration centrale, total (% du PIB)",
+      "key-wdi-FB-BNK-CAPA-ZS":"Ratio capital/actif des banques (%)",
+      "key-mvi-wdi-BX-TRF-PWKR-DT-GD-ZS":"Envois de fonds personnels, reçus (% du PIB)",
+      "key-wdi-DT-DOD-DECT-GN-ZS":"Encours de la dette extérieure (% du RNB)",
+      "key-wdi-BX-KLT-DINV-CD-WD":"Investissements directs étrangers, flux nets (BoP, US$ courants)",
+      "key-wdi-BM-KLT-DINV-CD-WD":"Investissement direct étranger, sorties nettes (BoP, US$ courants)",
+      "key-wdi-DT-ODA-ODAT-PC-ZS":"APD nette reçue par habitant (US$ courants)",
+      "key-wdi-DT-ODA-ODAT-GN-ZS":"APD nette reçue (% du RNB)",
+      "key-wdi2-NE-TRD-GNFS-ZS":"Commerce (% du PIB)"
+   },
+   "tooltips":{
+      "mviSelectTooltip":{
+         "title":"MVI",
+         "content":"<p>En réponse au contexte unique des PEID et au manque aigu de financement exacerbé par la pandémie de COVID-19, le PNUD a développé un <a href='https://www.undp.org/publications/towards-multidimensional-vulnerability-index'> indice de vulnérabilité multidimensionnel (MVI) </a> pour refléter les risques traditionnels et émergents auxquels sont confrontés non seulement les PEID mais aussi tous les pays en développement. Le MVI répond aux appels des PEID en faveur d’une réévaluation de l’éligibilité aux financements concessionnels au-delà du niveau de revenu, afin d’appréhender avec précision la vulnérabilité des PEID. Le MVI prolonge l’indice de vulnérabilité économique (EVI) en ajoutant la catégorie d’indicateurs financiers pour atteindre un total de 11 indicateurs, et les résultats montrent que tous les PEID, sauf cinq, sont beaucoup plus vulnérables que leur niveau de revenu ne le suggère. </p>"
+      },
+      "eviSelectTooltip":{
+         "title":"EVI",
+         "content":"<p>L’indice de vulnérabilité économique (EVI) et environnementale est actuellement utilisé comme l’un des trois critères d’inclusion dans la catégorie des pays les moins avancés (PMA). Il intègre trois dimensions de la vulnérabilité : économique, géographique et environnementale. Avec le revenu national brut (RNB) par habitant et l’indice du capital humain (HAI), des seuils sont fixés pour l’établissement des critères de PMA. En 2021, 46 pays sont inclus dans cette catégorie. Les PMA représentent environ 14 % de la population mondiale, mais moins de 1,3 % du produit intérieur brut (PIB) mondial et environ 1 % du commerce mondial.</p>"
+      },
+      "portfolioTooltip-sdgs":{
+         "title":"Objectifs de développement durable",
+         "content":"<p>Les objectifs mondiaux conçus pour guider le développement en vue d’un avenir meilleur et plus durable pour tous, mis en place par l’Assemblée générale des Nations Unies en 2015 et qui doivent être atteints en 2030, conformément au Programme 2030.</p>"
+      },
+      "portfolioTooltip-samoa":{
+         "title":"Orientations de Samoa",
+         "content":"<p>Les <b>Orientations de Samoa</b> (Modalités d’action accélérées des petits États insulaires en développement) réaffirme que les PEID restent un cas particulier pour le développement durable, reconnaissant l’appropriation et le leadership des PEID pour surmonter ces défis.</p>"
+      },
+      "portfolioTooltip-solutions":{
+         "title":"Solutions types",
+         "content":"<p>Pour atteindre les objectifs du Plan stratégique avec la multidimensionnalité et la complexité qu’exige le Programme 2030, le PNUD met en œuvre six approches transversales du développement, connues sous le nom de <b>Solutions types</b>.</p>"
+      },
+      "profiletooltip-blue":{
+         "title":"Économie bleue",
+         "content":"<p><b>Exploiter l’économie bleue par une approche intégrée ancrée dans la finance et le développement durables.</b> La superficie océanique combinée des PEID est 20,7 fois supérieure à celle de leur territoire terrestre. Cette énorme différence entre la taille du territoire souverain dans l’océan et sur terre souligne le potentiel des PEID à tirer de plus grands avantages socio-économiques de leurs économies bleues durables. L’économie bleue est définie comme l’utilisation durable des ressources océaniques pour la croissance économique, l’emploi et l’inclusion sociale et financière, en mettant l’accent sur la préservation et la restauration de la santé des écosystèmes océaniques. Les opportunités d’économie bleue durable dans les PEID couvrent un large spectre, y compris les secteurs dominants existants dans la pêche et le tourisme côtier ainsi que les nouveaux contributeurs réels ou potentiels tels que l’aquaculture, l’énergie océanique (vagues, marées et vent), le pétrole et le gaz offshore, le transport maritime durable, le dessalement, la recherche et l’éducation et les ressources génétiques marines. L’économie bleue peut également inclure des avantages économiques non marchands tels que le stockage du carbone, la protection des côtes, les valeurs culturelles et la biodiversité.</p>"
+      },
+      "profileTooltip-digital":{
+         "title":"Transformation numérique",
+         "content":"<p><b>Accélérer la transformation numérique par une approche globale de la société qui place les personnes au centre pour des sociétés inclusives et des économies résilientes.</b>Les PEID sont à un moment de grande promesse, presque révolutionnaire, en ce qui concerne la technologie numérique. De petite taille, elles peuvent offrir des conditions idéales en tant qu’incubateurs d’innovation, permettant de mettre au point de nouvelles technologies qui peuvent être testées, reproduites et transposées ailleurs. Les PEID peuvent devenir des pionniers dans l’utilisation des technologies numériques pour accélérer le développement durable et atténuer bon nombre des défis auxquels ils sont confrontés. Les PEID s’efforcent de relever les défis liés aux infrastructures de base et à la connectivité nécessaires pour faire ce saut. Des progrès significatifs en matière de connectivité ont mis les PEID sur la voie de la réalisation des objectifs d’universalité et d’accessibilité financière de l’accès à l’internet. Selon les tendances actuelles, la couverture du haut débit mobile atteindra près de 90 % de la population.</p>"
+      },
+      "profileTooltip-climate":{
+         "title":"Action pour le climat",
+         "content":"<p><b>Promouvoir des sociétés décarbonisées et résilientes par une action climatique renforcée et des efforts accrus pour mobiliser le financement climatique.</b>Les PEID sont en première ligne de la crise climatique, mais ils sont également à l’avant-garde des solutions climatiques. Les PEID ont partagé leur détermination collective à atteindre des émissions nettes nulles d’ici 2050, avec des initiatives et des partenariats transversaux axés sur les PEID et définis par eux. Les PEID ont pris des engagements audacieux pour mettre à jour leurs contributions déterminées au niveau national (CDN) et élaborer des plans et stratégies globaux pour réduire les émissions de gaz à effet de serre dans les contextes insulaires, assurer la transformation énergétique et améliorer la capacité d’adaptation. Alors que les PEID prennent des mesures pour répondre à la crise de la COVID-19 et s’en remettre, une action climatique ambitieuse et rapide reste en tête de leurs agendas. Les perturbations des chaînes de valeur mondiales ayant mis en évidence la précarité de l’approvisionnement énergétique dans les PEID, la transformation des systèmes énergétiques par le renforcement de la résilience et de l’autosuffisance est au cœur du premier pilier de l’offre du PNUD.</p>"
+      },
+      "profileTooltip-finance":{
+         "title":"Finances",
+         "content":"<p>Pour le PNUD, la mise en œuvre de son offre élargie pour les PEID implique de renforcer le capital humain et l’empreinte de l’organisation dans les PEID, en s’appuyant sur une série d’initiatives existantes telles que le réseau de laboratoires d’accélération et la toute première stratégie numérique de l’organisation (20182021). L’exécution nécessitera également de faire appel à tous les actifs du PNUD, y compris les Volontaires des Nations Unies (VNU), le Fonds d’équipement des Nations Unies (FENU), le  Bureau des fonds d’affectation spéciale pluripartenaires et le Bureau des Nations Unies pour la coopération Sud-Sud. Des liens plus étroits entre les agences seront essentiels pour fournir un soutien complet et adapté. L’accès au financement par des sources innovantes et traditionnelles est un facteur clé pour de nombreux PEID. Le PNUD aide les PEID à accéder aux financements dans quatre domaines :<ul><li>Les financements innovants, y compris les approches de financement mixte et les solutions d’atténuation des risques telles que l’assurance pour la protection contre les catastrophes ex ante, et la protection renforcée des récifs coralliens et d’autres types de capital naturel.</li><li>Financement de la conservation et de la restructuration de la dette (en parallèle avec des conseils en matière de politique fiscale) à l’aide d’obligations bleues et d’obligations de résilience.</li><li>Catalyser l’investissement du secteur privé dans les infrastructures (naturelles et humaines) par le biais d’obligations vertes.</li><li>Tirer parti de la mobilisation des ressources nationales et des rares investissements publics pour trouver d’autres sources de financement du développement durable dans les PEID</li></ul></p>"
+      },
+      "profileTooltip-mvi":{
+         "title":"MVI",
+         "content":"<p>En réponse au contexte unique des PEID et au manque aigu de financement exacerbé par la pandémie de COVID-19, le PNUD a développé un <a href='https://www.undp.org/publications/towards-multidimensional-vulnerability-index'> indice de vulnérabilité multidimensionnel (MVI) </a> pour refléter les risques traditionnels et émergents auxquels sont confrontés non seulement les PEID mais aussi tous les pays en développement. Le MVI répond aux appels lancés par les PEID en faveur d’une réévaluation de l’éligibilité aux financements concessionnels au-delà du niveau de revenu, afin de rendre compte avec précision de la vulnérabilité à laquelle ils sont confrontés. Chacune des dimensions est calculée comme une moyenne des indicateurs normalisés sélectionnés pour cette dimension. Toutes les données proviennent du DESA et de la Banque mondiale.</p>"
+      },
+      "profileTooltip-radar":{
+         "title":"Cartes radar",
+         "content":"<p>Pour visualiser les piliers de l’Offre PEID, six indicateurs ont été sélectionnés pour chacun des domaines suivants : action climatique, économie bleue et transformation numérique. Ces données sont visualisées sur des graphiques radar en fonction du rang dans lequel se situent ces valeurs lorsqu’elles sont regroupées par valeurs mondiales, parmi les PEID, ou par région. Ces graphiques sont destinés à donner une idée générale de la façon dont les pays se comparent. L’utilisateur peut également sélectionner d’autres pays à superposer pour les comparer directement avec les pays voisins et visualiser les différences et les similitudes. Ces valeurs classées sont destinées à servir de guide visuel approximatif et ne représentent en aucun cas un classement qualitatif des pays qui nécessite une perspective plus analytique du développement et du rôle de ces indicateurs qui contribuent aux diverses conditions socio-économiques de chacun des PEID.</p>"
+      },
+      "aboutThis-ai":{
+         "title":"À propos",
+         "content":"<p>Intervalle de prédiction - Un intervalle de prédiction est une plage de valeurs qui représente la prédiction pour une valeur manquante, sur la base du modèle formé. Les intervalles de prédiction indiqués ici sont des intervalles de prédiction à 90 %. Elles représentent la certitude du modèle que la valeur prédite se situera dans cette plage 90 % du temps. </p><p>NRMSE - L'erreur quadratique moyenne normalisée (NRMSE) est une normalisation de la mesure de performance de l'erreur quadratique moyenne (RMSE) pour faciliter la comparaison entre des modèles de différentes échelles, de sorte que la NRMSE peut être interprétée comme une fraction de la plage globale qui est généralement résolue par le modèle. Les valeurs NRMSE proches de 0 suggèrent une bonne performance du modèle et celles proches de 1 une mauvaise performance du modèle.</p>"
+      },
+      "aboutThis-portfolio":{
+         "title":"À propos",
+         "content":"<p> Visualisez le portefeuille du PNUD pour les PEID en fonction de l’allocation budgétaire pour les ODD, les priorités des Orientations de Samoa et les six solutions types du PNUD. Vous pouvez filtrer par région, année, catégorie de financement et donateur.</p><p>Toutes les données proviennent du Portail de la transparence du PNUD à l’adresse suivante : https://open.undp.org/. Il présente des informations détaillées sur les plus de 5 000 projets de développement du PNUD dans quelque 170 pays et territoires du monde entier. Le Portail de la transparence représente l’engagement du PNUD à publier des informations complètes, de qualité et opportunes sur les flux et les résultats de l’aide. Les activités opérationnelles du système de développement des Nations Unies et du PNUD se caractérisent par l’universalité de leur présence, l’impartialité, l’approche multisectorielle et la nature non conditionnelle des subventions.</p>"
+      },
+      "aboutThis-indicators":{
+         "title":"À propos",
+         "content":"<p> Les données et métadonnées de plus de 20 bases de données statistiques et études de recherche accessibles au public ont été compilées et normalisées en un produit de données complet. Nous nous sommes efforcés de sélectionner les données afin de présenter des informations fiables, précises et complètes dans les nombreux secteurs du développement les plus pertinents pour les PEID. Les données peuvent être triées par ensemble de données, catégorie et sous-catégorie, puis visualisées sous forme de carte choroplèthe, de vue globale, de diagramme à barres et de série chronologique. </p>"
+      },
+      "aboutThis-profiles":{
+         "title":"À propos",
+         "content":"<p>Avec ces indicateurs, nous avons également élaboré des profils de pays avec des données clés sur le développement à travers les piliers de l’Offre PEID du PNUD, ainsi que des informations financières et des indices de vulnérabilité. Vous pouvez y superposer d’autres pays pour comparer les valeurs classées parmi les PEID et les valeurs régionales ou mondiales. Ces données de profil de pays sont toutes disponibles pour l’exportation en format pdf ou csv pour une analyse plus approfondie. Les valeurs sont visualisées en fonction de leur classement par rapport aux valeurs mondiales ou régionales, qui sont quantitatives uniquement à des fins de visualisation et ne représentent aucun classement des pays de la part du PNUD. </p>"
+      },
+      "aboutThis-gis":{
+         "title":"À propos",
+         "content":"<p> La base de données SIG des PEID est compilée et normalisée à partir d’ensembles de données accessibles au public publiés dans des études de recherche, des agences des Nations Unies et des organisations statistiques. L’utilisateur peut choisir parmi un ensemble de couches comprenant des données socio-économiques telles que la densité de population, l’accès aux marchés et le PIB, ainsi que des indices de potentiel de développement tels que le potentiel d’énergie éolienne ou solaire. En sélectionnant une priorité des ODD ou des Orientations de Samoa, l’utilisateur peut filtrer les ensembles de données en fonction d’un seul domaine d’intérêt. Ces données peuvent être visualisées à de multiples résolutions, ainsi qu’en 2D ou 3D, avec des superpositions supplémentaires d’ensembles de données vectorielles comme les limites administratives. Des outils supplémentaires de visualisation et d’analyse permettent aux utilisateurs de construire leurs propres cartes et d’exporter ces visuels pour la communication et les rapports. Les données peuvent être consultées à partir de la source originale ou dans notre base de données en contactant notre équipe. </p>"
+      },
+      "aboutThis-mvi":{
+         "title":"À propos",
+         "content":"<p>En réponse au contexte unique des PEID et au manque aigu de financement exacerbé par la pandémie de COVID-19, le PNUD a développé un<a href='https://www.undp.org/publications/towards-multidimensional-vulnerability-index' target='_blank'> <b>indice de vulnérabilité multidimensionnel (MVI)</b> </a> permettant de refléter les risques traditionnels et émergents auxquels sont confrontés non seulement les PEID mais aussi tous les pays en développement. Le MVI répond aux appels des PEID en faveur d’une réévaluation de l’éligibilité aux financements concessionnels au-delà du niveau de revenu, afin d’appréhender avec précision la vulnérabilité des PEID. Le MVI est un indice composite de quatre dimensions de la vulnérabilité : environnementale, géographique, économique et financière. Chaque dimension est calculée comme une moyenne des indicateurs normalisés sélectionnés pour cette dimension. En utilisant 11 indicateurs pour 128 pays (dont 34 PEID), le MVI démontre que tous les PEID, sauf cinq, sont beaucoup plus vulnérables que leur niveau de revenu ne le suggère. En outre, une simulation comparant les PEID aux PMA démontre que, si le MVI était utilisé comme critère de financement (plutôt que le seul revenu par habitant), les PEID économiseraient en moyenne 1,5 % de leur PIB par an en paiements d’intérêts.</p> <p> Les données de ce document sont présentées dans une interface paramétrique avec une version personnalisable de le MVI pour permettre l’analyse des contributions de chaque indicateur à la vulnérabilité des PEID. </p> <p> Toutes les données proviennent de le DESA et de la Banque mondiale. </p>"
+      }
+   },
+   "spiders":{
+      "definition":"Définition",
+      "source":"Source",
+      "rank":"Rang",
+      "value":"Valeur",
+      "key-hdr-181606":{
+         "def":"Mesure du risque global d’extinction pour des groupes d’espèces. Elle est basée sur les changements réels du nombre d’espèces dans chaque catégorie de risque d’extinction de la liste rouge des espèces menacées de l’Union internationale pour la conservation de la nature et de ses ressources.",
+         "indicator":"Indice de liste rouge"
+      },
+      "key-wdi-ER-PTD-TOTL-ZS":{
+         "def":"Les zones protégées terrestres sont désignées par les autorités nationales comme étant des réserves scientifiques dont l’accès est limité au public, des parcs nationaux, des monuments naturels, des réserves naturelles ou des sanctuaires de la vie sauvage, des paysages protégés et des zones gérées principalement pour une utilisation durable. Les zones marines protégées sont des zones de terrain intertidal ou subtidal, ainsi que les eaux sus-jacentes et la flore et la faune associées et les caractéristiques historiques et culturelles.",
+         "indicator":"Zones protégées terrestres et marines (pourcentage de la superficie totale du territoire)"
+      },
+      "key-ndgain-nd-vulnerability":{
+         "def":"La vulnérabilité est la propension ou la prédisposition des sociétés humaines à subir les effets négatifs des risques climatiques. ND-GAIN évalue la vulnérabilité d’un pays en prenant en compte six secteurs vitaux : la nourriture, l’eau, la santé, les services écosystémiques, l’habitat humain et les infrastructures.",
+         "indicator":"Indice de vulnérabilité climatique"
+      },
+      "key-wdi-EN-CLC-DRSK-XQ":{
+         "def":"Le score de progrès en matière de réduction des risques de catastrophe est une moyenne des scores d’auto-évaluation, allant de 1 à 5, soumis par les pays au titre de la priorité 1 des rapports nationaux sur l’état d’avancement de la mise en œuvre du Cadre d’action de Hyogo.",
+         "indicator":"Score de progrès en matière de réduction des risques de catastrophe"
+      },
+      "key-wdi-EN-ATM-CO2E-KT":{
+         "def":"Les émissions de dioxyde de carbone sont celles qui proviennent de la combustion de combustibles fossiles et de la fabrication de ciment. Elles comprennent le dioxyde de carbone produit lors de la consommation de combustibles solides, liquides et gazeux et le torchage du gaz.",
+         "indicator":"Émissions de CO2 (kt)"
+      },
+      "key-wdi-EG-FEC-RNEW-ZS":{
+         "def":"La consommation d’énergie renouvelable est la part de l’énergie renouvelable dans la consommation finale totale d’énergie.",
+         "indicator":"Consommation d’énergie renouvelable"
+      },
+      "key-wdi-ER-MRN-PTMR-ZS":{
+         "def":"Les zones marines protégées sont des zones de terrain intertidal ou subtidal (et les eaux sus-jacentes ainsi que la flore et la faune associées et les caractéristiques historiques et culturelles) qui ont été réservées par la loi ou d’autres moyens efficaces pour protéger une partie ou la totalité de l’environnement clos.",
+         "indicator":"Zones marines protégées (pourcentage de la ZEE)"
+      },
+      "key-ports":{
+         "indicator":"Nombre de ports"
+      },
+      "key-epi-FSS":{
+         "def":"L’état des réserves de poissons évalue le pourcentage de la capture totale d’un pays qui provient de réserves surexploitées ou effondrées, en considérant toutes les réserves de poissons dans les ZEE d’un pays. ",
+         "indicator":"Indice de performance environnementale/État des réserves de poissons"
+      },
+      "key-46":{
+         "def":"La contribution totale des voyages et du tourisme au PIB reflète le PIB généré directement par le secteur des voyages et du tourisme plus ses répercussions indirectes et induites.",
+         "indicator":"Recettes du tourisme international en % du PIB"
+      },
+      "key-wdi-IS-SHP-GOOD-TU":{
+         "def":"Le trafic portuaire de conteneurs mesure le flux de conteneurs entre les modes de transport terrestre et maritime, et vice versa, en unités équivalentes à vingt pieds (EVP), un conteneur de taille standard.",
+         "indicator":"Trafic des ports à conteneurs (EVP)"
+      },
+      "key-ohi-index-score":{
+         "def":"L’indice de santé des océans est un outil d’évaluation qui mesure scientifiquement les éléments essentiels de toutes les dimensions de la santé des océans (biologique, physique, économique et sociale) afin de guider les décideurs vers l’utilisation durable de l’océan.\\nLe score final de l’OHI qui tient compte de l’état actuel et de l’état futur prévu.",
+         "indicator":"Indice des santé des océans"
+      },
+      "key-egov-osi":{
+         "def":"L’indice des service en ligne mesure l’utilisation des TIC par les gouvernements sur la base d’une enquête sur la présence en ligne des États membres.",
+         "indicator":"Indice des services en ligne"
+      },
+      "key-egov-tii":{
+         "def":"Cet indice est une moyenne de cinq indicateurs pour 100 habitants, dont le nombre estimé d’utilisateurs d’Internet, le nombre de lignes téléphoniques fixes principales, le nombre d’abonnés à la téléphonie mobile, le nombre d’abonnements au haut débit sans fil et le nombre d’abonnements au haut débit fixe. ",
+         "indicator":"Indice des infrastructures de télécommunications"
+      },
+      "key-egov-hci":{
+         "def":"L’indice de capital humain est une moyenne de quatre indicateurs, dont le taux d’alphabétisation des adultes, le taux brut de scolarisation, les années estimées de scolarisation et les années moyennes de scolarisation.",
+         "indicator":"Indice de capital humain"
+      },
+      "key-egov-egi":{
+         "def":"L’indice de développement de l’administration électronique est une moyenne pondérée de l’indice des services en ligne, de l’indice de l’infrastructure de télécommunication, de l’indice de la participation en ligne et de l’indice du capital humain.",
+         "indicator":"Indice de développement de l’administration électronique"
+      },
+      "key-itu-gci-score":{
+         "def":"L’indice mondial de cybersécurité (GCI) évalue le niveau de développement ou d’engagement de chaque pays selon cinq piliers : i) mesures juridiques, ii) mesures techniques, iii) mesures organisationnelles, iv) développement des capacités et v) coopération.",
+         "indicator":"Indice mondial de cybersécurité (GCI)"
+      },
+      "key-rfti-score":{
+         "def":"L’indice comprend cinq éléments constitutifs : déploiement des TIC, compétences, activité de R&amp;D, activité industrielle et accès au financement.",
+         "indicator":"Indice de préparation aux technologies de pointe"
+      },
+      "key-mvi-ldc-XCON-Index":{
+         "def":"Fournit des informations sur l’exposition aux chocs commerciaux résultant d’une structure d’exportation concentrée. Mesure la concentration par produit des exportations d’un pays.",
+         "indicator":"Concentration des exportations"
+      },
+      "key-mvi-ldc-XIN-Index":{
+         "def":"La déviation standard de la différence entre la valeur des recettes annuelles d’exportation et sa tendance sur 20 ans.",
+         "indicator":"Instabilité des exportations"
+      },
+      "key-mvi-ldc-AIN-Index":{
+         "def":"Défini comme l’écart-type de la différence entre la production agricole et sa tendance sur 20 ans",
+         "indicator":"Instabilité agricole"
+      },
+      "key-mvi-wdi2-ST-INT-RCPT-XP-ZS":{
+         "def":"Les recettes du tourisme international sont les dépenses des visiteurs internationaux entrants, y compris les paiements aux transporteurs nationaux pour le transport international.",
+         "indicator":"Recettes du tourisme en tant que part des exportations"
+      },
+      "key-wdi-BX-TRF-PWKR-DT-GD-ZS":{
+         "def":"Les transferts de fonds personnels comprennent les transferts personnels et la rémunération des employés.",
+         "indicator":"Envois de fonds en pourcentage du PIB"
+      },
+      "key-mvi-wdi-BX-KLT-DINV-WD-GD-ZS":{
+         "def":"Les investissements étrangers directs (IED) sont les entrées nettes d’investissements : la somme des capitaux propres, du réinvestissement des bénéfices, des autres capitaux à long terme et des capitaux à court terme tels qu’ils apparaissent dans la balance des paiements.",
+         "indicator":"Flux d’IDE en pourcentage du PIB"
+      },
+      "key-mvi-ldc-AFF-Index":{
+         "def":"Défini comme la part en pourcentage des secteurs de l’agriculture, de la chasse, de la sylviculture et de la pêche dans la valeur ajoutée brute d’un pays.",
+         "indicator":"Agriculture et pêche en pourcentage du PIB"
+      },
+      "key-mvi-ldc-VIC-Index":{
+         "def":"Mesure la part de la population qui est victime de catastrophes, définie comme les personnes tuées ou affectées (c’est-à-dire nécessitant une alimentation immédiate, de l’eau, un abri, des installations sanitaires ou une assistance médicale).",
+         "indicator":"Victimes de catastrophes"
+      },
+      "key-mvi-ldc-REM-Index":{
+         "def":"Défini comme la moyenne pondérée par le commerce de la distance d’un pays par rapport aux marchés mondiaux.",
+         "indicator":"Éloignement"
+      },
+      "key-mvi-ldc-LECZ-Index":{
+         "def":"Population inférieure à 5 mètres est le pourcentage de la population totale vivant dans des zones où l’altitude est inférieure ou égale à 5 mètres.",
+         "indicator":"Part de la population dans les zones côtières à faible altitude"
+      }
+   },
     "interfaces": {
         "header": "Interfaces pour la découverte et l’analyse des données relatives aux PEID",
         "profiles": {
