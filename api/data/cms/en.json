@@ -104,7 +104,7 @@
          "export": "export",
          "subscribe": "subscribe",
          "about": "about this",
-         "search": "Search",
+         "search": "Search"
       },
       "forms": {
          "selectCountries": "Select countries",
@@ -840,5 +840,5 @@
            "header": "Multidimensional Vulnerability Index",
            "description": "A customizable Multidimensional Vulnerability Index (MVI) for SIDS to analyze environmental, geographic, economic, and financial vulnerability."
        }
-   },
+   }
 }
