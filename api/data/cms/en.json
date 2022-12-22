@@ -90,6 +90,8 @@
       "mv": "Multidimensional Vulnerability",
       "mvi": "Multidimensional Vulnerability Index",
       "header": {
+        "indicator":"indicator",
+        "profile": "profile",
          "header": [
             "Data Platform",
             "for the",
