@@ -91,7 +91,7 @@
       "mvi": "Multidimensional Vulnerability Index",
       "header": {
         "indicator":"indicator",
-        "country": "country",
+        "profile": "profile",
          "header": [
             "Data Platform",
             "for the",
