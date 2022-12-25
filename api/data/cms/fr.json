@@ -1,0 +1,806 @@
+{
+   "navigation":{
+      "portfolio":"Portefeuille PEID du PNUD",
+      "indicators":"Indicateurs de développement",
+      "mvi":"Vulnérabilité",
+      "profiles":"Profils des pays",
+      "gis":"Données géospatiales",
+      "about":"À propos de"
+   },
+   "countryNames":{
+      "anguilla":"Anguilla",
+      "antiguaAndBarbuda":"Antigua-et-Barbuda",
+      "aruba":"Aruba",
+      "bahamas":"Bahamas",
+      "bahrain":"Bahrain",
+      "barbados":"Barbade",
+      "belize":"Belize",
+      "bermuda":"Bermudes",
+      "britishVirginIslands":"Îles Vierges britanniques",
+      "caboVerde":"Cabo Verde",
+      "caymanIslands":"Îles Caïmanes",
+      "comoros":"Comores",
+      "cookIslands":"Îles Cook",
+      "cuba":"Cuba",
+      "curacao":"Curaçao",
+      "dominica":"Dominique",
+      "dominicanRepublic":"République dominicaine",
+      "fiji":"Fiji",
+      "grenada":"Grenade",
+      "guineaBissau":"Guinée-Bissau",
+      "guyana":"Guyana",
+      "haiti":"Haïti",
+      "jamaica":"Jamaïque",
+      "kiribati":"Kiribati",
+      "kittsAndNevis":"Saint-Kitts-et-Nevis",
+      "maldives":"Maldives",
+      "marshallIslands":"Îles Marshall",
+      "mauritius":"Maurice",
+      "micronesia":"États fédérés de Micronésie",
+      "montserrat":"Montserrat",
+      "nauru":"Nauru",
+      "niue":"Nioué",
+      "palau":"Palaos",
+      "papuaNewGuinea":"Papouasie-Nouvelle-Guinée",
+      "saintLucia":"Sainte-Lucie",
+      "samoa":"Samoa",
+      "saoTomeAndPrincipe":"Sao Tomé-et-Principe",
+      "seychelles":"Seychelles",
+      "singapore":"Singapour",
+      "sintMaarten":"Sint Maarten",
+      "solomonIslands":"Îles Salomon",
+      "stVincent":"Saint-Vincent-et-les-Grenadines",
+      "suriname":"Suriname",
+      "timorLeste":"Timor-Leste",
+      "tokelau":"Tokélaou",
+      "tonga":"Tonga",
+      "trinidadAndTobago":"Trinité-et-Tobago",
+      "turksAndCaicos":"Îles Turques et Caïques",
+      "tuvalu":"Tuvalu",
+      "vanuatu":"Vanuatu",
+      "aisAverage":"Moyenne AIS",
+      "caribbeanAverage":"Moyenne des Caraïbes",
+      "pacificAverage":"Moyenne du Pacifique",
+      "global":"Moyenne mondiale"
+   },
+   "regions":{
+      "caribbean":"Caraïbes",
+      "ais":"AIS",
+      "pacific":"Pacifique",
+      "regionalAvg":"Moyenne régionale"
+   },
+   "root":{
+      "noData":"Pas de données",
+      "link":"Lien",
+      "source":"Source",
+      "header":{
+         "header":[
+            "Plate-forme de données",
+            "pour les",
+            "PETITS ÉTATS INSULAIRES EN DÉVELOPPEMENT"
+         ],
+         "description":"L’approche intégrée du PNUD permet aux petits États insulaires en développement d’accélérer un développement transformateur basé sur trois piliers : Action pour le climat, économie bleue et transformation numérique."
+      },
+      "footer":{
+         "poweredBy":"Propulsé par la plateforme Data Futures du PNUD"
+      },
+      "buttons":{
+         "export":"exporter",
+         "about":"à ce sujet",
+         "search": "Recherche"
+      },
+      "forms":{
+         "selectCountries":"Sélectionner les pays",
+         "years":"Années",
+         "region":"Région"
+      },
+      "goals":{
+         "samoa":"Orientations de Samoa",
+         "sdgs":"Objectifs de développement durable",
+         "signature-solutions":"Solutions types"
+      },
+      "samoa":{
+         "eGrowth":{
+            "name":"Une croissance économique durable, inclusive et équitable",
+            "title":"1. Croissance économique soutenue et durable, inclusive et équitable, avec un travail décent pour tous",
+            "content":"Aider les PEID à atteindre une croissance soutenue, inclusive et équitable avec le plein emploi productif, la protection sociale et la création d’un travail décent pour tous."
+         },
+         "clChange":{
+            "name":"Changement climatique",
+            "title":"2. Changement climatique",
+            "content":"Aider les PEID à s’adapter au climat, notamment aux sécheresses persistantes et aux phénomènes météorologiques extrêmes, à l’élévation du niveau de la mer, à l’érosion côtière et à l’acidification des océans"
+         },
+         "susEnegy":{
+            "name":"Énergie durable",
+            "title":"3. Énergie durable",
+            "content":"Relever les défis de l’accès à l’énergie durable dans les PEID, notamment l’amélioration de l’accessibilité aux services énergétiques modernes, l’efficacité énergétique et l’utilisation de technologies économiquement viables et respectueuses de l’environnement."
+         },
+         "disaster":{
+            "name":"Réduction des risques de catastrophe",
+            "title":"4. Réduction des risques de catastrophes",
+            "content":"Répondre à l’impérieuse nécessité de mettre au point la résilience, de renforcer la surveillance et la prévention, de réduire la vulnérabilité, de sensibiliser et d’accroître la préparation pour répondre aux catastrophes et s’en remettre dans les PEID."
+         },
+         "oceans":{
+            "name":"Océans et mers",
+            "title":"5. Océans et mers",
+            "content":"En vue de favoriser la santé, la productivité et la résilience des océans et des côtes, il est essentiel, entre autres, d’éradiquer la pauvreté, de garantir l’accès à une alimentation suffisante, sûre et nutritive, d’assurer les moyens de subsistance, le développement économique, les services écosystémiques essentiels, ainsi que l’identité et la culture des PEID."
+         },
+         "food":{
+            "name":"Sécurité alimentaire et nutrition",
+            "title":"6. Sécurité alimentaire et nutrition",
+            "content":"Soutenir le droit d’accès à une alimentation sûre, suffisante et nutritive, l’éradication de la faim et la fourniture de moyens de subsistance tout en conservant, protégeant et assurant l’utilisation durable des terres, des sols, des forêts, de l’eau, des plantes et des animaux, de la biodiversité et des écosystèmes."
+         },
+         "water":{
+            "name":"Eau et assainissement",
+            "title":"7. Eau et assainissement",
+            "content":"Apporter son appui aux initiatives des petits États insulaires en développement pour renforcer les capacités nécessaires à la mise en œuvre efficace, inclusive et durable de la gestion intégrée des ressources en eau et des écosystèmes connexes."
+         },
+         "transport":{
+            "name":"Transport durable",
+            "title":"8. Transport durable",
+            "content":"Aider les PEID à accéder à des moyens de transport respectueux de l’environnement, sûrs, abordables, durables et bien entretenus."
+         },
+         "production":{
+            "name":"Consommation et production durables",
+            "title":"9. Consommation et production durables",
+            "content":"Soutenir les PEID sur les modes de consommation et de production durables pour faire progresser la consommation et la production durables, en mettant l’accent sur les microentreprises et petites et moyennes entreprises, le tourisme durable, la gestion des déchets, l’alimentation et la nutrition, les modes de vie et les chaînes d’approvisionnement rurales."
+         },
+         "waste":{
+            "name":"Gestion des produits chimiques et des déchets",
+            "title":"10. Gestion des produits chimiques et des déchets, y compris les déchets dangereux",
+            "content":"Soutenir les PEID dans la gestion rationnelle des produits chimiques tout au long de leur cycle de vie et des déchets est crucial pour la protection de la santé humaine et de l’environnement."
+         },
+         "health":{
+            "name":"Santé et MNT",
+            "title":"11. Santé et maladies non transmissibles",
+            "content":"Soutenir la prévention, le traitement, les soins et l’éducation en matière de santé, ainsi que les actions nationales des PEID dans la lutte contre les maladies transmissibles et non transmissibles."
+         },
+         "gender":{
+            "name":"Égalité entre les sexes",
+            "title":"12. Égalité entres les sexes et autonomisation des femmes",
+            "content":"Soutenir l’égalité entre les sexes, l’autonomisation des femmes et la pleine réalisation des droits humains des femmes et des filles a un effet transformateur et multiplicateur sur le développement durable et constitue un moteur de la croissance économique dans les PEID."
+         },
+         "socialDevelopment":{
+            "name":"Développement social",
+            "title":"13. Développement social",
+            "content":"Contribuer aux efforts visant à renforcer la protection et l’inclusion sociales, à améliorer le bien-être et à garantir les possibilités pour les plus vulnérables et les plus défavorisés d’avoir un accès égal à l’éducation, à la santé, à la nourriture, à l’eau et à l’assainissement, et aux ressources productives."
+         },
+         "biodiversity":{
+            "name":"Biodiversité",
+            "title":"14. Biodiversité",
+            "content":"Soutenir la conservation et l’utilisation durable de la biodiversité, ainsi que l’accès aux ressources génétiques et le partage juste et équitable des avantages découlant de leur utilisation, dans l’optique d’une vie en harmonie avec la nature."
+         },
+         "invasiveSpecies":{
+            "name":"Espèces envahissantes",
+            "title":"15. Espèces exotiques envahissantes",
+            "content":"Favoriser la collaboration multisectorielle dans les PEID pour lutter contre les espèces exotiques envahissantes afin de protéger la biodiversité et les moyens de subsistance, de préserver et de maintenir les ressources océaniques et la résilience des écosystèmes, de renforcer la sécurité alimentaire et de s’adapter au changement climatique."
+         },
+         "meansOfImplementation":{
+            "name":"Moyens de mise en œuvre",
+            "title":"16. Moyens de mise en œuvre, y compris les partenariats",
+            "content":"Soutenir les PEID dans le cadre d’un partenariat mondial renforcé pour le développement, de la fourniture et de la mobilisation adéquates de tous les moyens de mise en œuvre et d’un appui international continu visant à atteindre les objectifs convenus au niveau international"
+         }
+      },
+      "sdgs":{
+         "poverty":{
+            "name":"Pas de pauvreté",
+            "title":"Objectif 1 - Pas de pauvreté",
+            "content":"Mettre fin à la pauvreté sous toutes ses formes, partout dans le monde, en s’engageant fermement à ne laisser personne de côté et à atteindre en premier lieu ceux qui sont le plus en retard."
+         },
+         "hunger":{
+            "name":"Faim « zéro »",
+            "title":"Objectif 2 - Faim « zéro »",
+            "content":"Éliminer la faim, assurer la sécurité alimentaire, améliorer la nutrition et promouvoir l’agriculture durable."
+         },
+         "health":{
+            "name":"Bonne santé et bien-être",
+            "title":"Objectif 3 - Bonne santé et bien-être",
+            "content":"Permettre à tous de vivre en bonne santé et promouvoir le bien-être de tous à tout âge."
+         },
+         "education":{
+            "name":"Éducation de qualité",
+            "title":"Objectif 4 - Éducation de qualité",
+            "content":"Assurer une éducation de qualité inclusive et équitable et promouvoir les possibilités d’apprentissage tout au long de la vie pour tous."
+         },
+         "gender":{
+            "name":"Égalité des sexes",
+            "title":"Objectif 5 - Égalité entre les sexes",
+            "content":"Parvenir à l’égalité entre les sexes et autonomiser toutes les femmes et filles."
+         },
+         "water":{
+            "name":"Eau propre et assainissement",
+            "title":"Objectif 6 - Eau propre et assainissement",
+            "content":"Garantir la disponibilité et la gestion durable de l’eau et de l’assainissement pour tous."
+         },
+         "energy":{
+            "name":"Énergie propre et d’un coût abordable",
+            "title":"Objectif 7 - Énergie propre et d’un coût abordable",
+            "content":"Garantir l’accès de tous à des services énergétiques fiables, durables et modernes, à un coût abordable."
+         },
+         "growth":{
+            "name":"Travail décent et croissance économique",
+            "title":"Objectif 8 - Travail décent et croissance économique",
+            "content":"Promouvoir une croissance économique soutenue, partagée et durable, le plein emploi productif et un travail décent pour tous."
+         },
+         "industry":{
+            "name":"Industrie, innovation et infrastructure",
+            "title":"Objectif 9 - Industrie, innovation et infrastructure",
+            "content":"Bâtir une infrastructure résiliente, promouvoir une industrialisation durable et qui profite à tous, et encourager l’innovation."
+         },
+         "inequality":{
+            "name":"Inégalités réduites",
+            "title":"Objectif 10 - Inégalités réduites",
+            "content":"Réduire les inégalités de revenus au sein des pays et entre eux."
+         },
+         "cities":{
+            "name":"Villes et communautés durables",
+            "title":"Objectif 11 - Villes et communautés durables",
+            "content":"Rendre les villes et les établissements humains inclusifs, sûrs, résilients et durables."
+         },
+         "consumption":{
+            "name":"Consommation et production responsables",
+            "title":"Objectif 12 - Consommation et production responsables",
+            "content":"Assurer des modes de consommation et de production durables"
+         },
+         "climate":{
+            "name":"Mesures relatives à la lutte contre les changements climatiques",
+            "title":"Objectif 13 - Mesures relatives à la lutte contre les changements climatiques",
+            "content":"Prendre d’urgence des mesures pour lutter contre les changements climatiques et leurs répercussions en réglementant les émissions et en encourageant le développement des énergies renouvelables."
+         },
+         "marineLife":{
+            "name":"Vie aquatique",
+            "title":"Objectif 14 - Vie aquatique",
+            "content":"Conserver et exploiter de manière durable les océans, les mers et les ressources marines aux fins du développement durable."
+         },
+         "landLife":{
+            "name":"Vie terrestre",
+            "title":"Objectif 15 - Vie terrestre",
+            "content":"Préserver, restaurer et promouvoir l’exploitation durable des écosystèmes terrestres, gérer durablement les forêts, lutter contre la désertification, enrayer et inverser la dégradation des terres et mettre fin à l’appauvrissement de la biodiversité."
+         },
+         "peace":{
+            "name":"Paix, justice et institutions efficaces",
+            "title":"Objectif 16 - Paix, justice et institutions efficaces",
+            "content":"Promouvoir l’avènement de sociétés pacifiques et inclusives aux fins du développement durable, assurer l’accès de tous à la justice et mettre en place, à tous les niveaux, des institutions efficaces, responsables et ouvertes à tous."
+         },
+         "partnerships":{
+            "name":"Partenariats pour la réalisation des objectifs",
+            "title":"Objectif 17 - Partenariats pour la réalisation des objectifs",
+            "content":"Renforcer les moyens de mise en œuvre le Partenariat mondial pour le développement durable et le revitaliser."
+         }
+      },
+      "signature-solutions":{
+         "poverty":{
+            "name":"Maintenir les populations hors de la pauvreté",
+            "title":"Solution n° 1 - Maintenir les populations hors de la pauvreté",
+            "content":"Cette solution type ciblera les obstacles et les facteurs de vulnérabilité qui maintiennent les populations dans la pauvreté ou qui les y font retomber, notamment lorsque des chocs et des crises se produisent. Elle s’appuiera sur diverses mesures consistant notamment à améliorer les moyens de subsistance en milieu rural et urbain, à renforcer l’égalité entre les sexes et la protection sociale, à garantir l’accès à l’eau, à l’énergie propre et à d’autres services de base et à donner plus largement accès aux services financiers pour contribuer à renforcer la résilience aux chocs d’ordre économique, environnemental ou sanitaire"
+         },
+         "governance":{
+            "name":"Mettre en place une gouvernance plus efficace, plus inclusive et plus responsable",
+            "title":"Solution n° 2 - Mettre en place une gouvernance plus efficace, plus inclusive et plus responsable",
+            "content":"On s’accorde à reconnaître que l’absence d’exclusive et le respect du principe de responsabilité par les systèmes et processus de gouvernance sont cruciaux pour le développement durable et la sécurité humaine. Cette solution type vise donc surtout à soutenir les divers modes de développement qui contribuent à l’édification de sociétés pacifiques, justes et sans exclusive, en tirant parti de l’avantage comparatif du PNUD et de sa longue expérience en matière de gouvernance."
+         },
+         "prevention":{
+            "name":"Renforcer les capacités nationales de prévention et de relèvement pour édifier des sociétés résilientes",
+            "title":"Solution n° 3 - Renforcer les capacités nationales de prévention et de relèvement pour édifier des sociétés résilientes",
+            "content":"Pour renforcer la résilience aux effets des catastrophes et des situations d’urgence (que celles-ci aient des origines socioéconomiques ou des causes naturelles), il faut réduire au minimum les facteurs de risque inhérents aux processus de développement et renforcer la sécurité humaine. Cette solution type s’appuiera sur la stratégie de développement du PNUD et ses compétences spécialisées en matière de prévention des conflits, de consolidation de la paix, de réduction des risques de catastrophe, d’adaptation aux changements climatiques, d’atténuation de leurs effets et d’intervention en cas de crise pour aider les pays à éviter les crises et à revenir rapidement à un développement stable après les crises "
+         },
+         "solutions":{
+            "name":"Promouvoir des solutions fondées sur la nature pour préserver la planète",
+            "title":"Solution n° 4 - Promouvoir des solutions fondées sur la nature pour préserver la planète",
+            "content":"La biodiversité et les écosystèmes terrestres et marins sont les bases des sociétés humaines et constituent un filet de sécurité pour des milliards de personnes auxquelles elles permettent de disposer de ressources et fournissent des services écosystémiques. Le PNUD conduira des actions intégrées en partenariat avec la FAO, le PNUE et d’autres pour limiter l’appauvrissement de la diversité biologique en s’employant à remédier aux lacunes du marché, des politiques et de la gouvernance qui conduisent à la dégradation des écosystèmes."
+         },
+         "energy":{
+            "name":"Combler le déficit énergétique",
+            "title":"Solution n° 5 - Combler le déficit énergétique",
+            "content":"L’accès à une énergie propre et abordable est un facteur déterminant pour le développement durable, aussi bien pour la nutrition, que les transports, l’éducation ou les possibilités économiques. Cette solution visera essentiellement à améliorer l’accès à l’énergie, à promouvoir les énergies renouvelables et à améliorer l’efficacité énergétique de façon à n’exclure personne et à répondre aux besoins des différents secteurs de la population."
+         },
+         "equality":{
+            "name":"Promouvoir l’égalité hommes-femmes, ainsi que l’autonomisation des femmes et des filles",
+            "title":"Solution n° 6 - Promouvoir l’égalité hommes-femmes, ainsi que l’autonomisation des femmes et des filles",
+            "content":"Des inégalités persistent entre les sexes dans toutes les régions du monde; elles se manifestent par la répartition inégale des travaux domestiques, l’absence d’accès équitable à la prise de décisions et l’inégalité d’accès aux services de base, aux ressources et aux finances. S’attaquer à ces inégalités et à leurs causes structurelles, ainsi qu’aux pratiques discriminatoires qui les perpétuent exige des interventions multisectorielles suivies."
+         }
+      },
+      "pillars":{
+         "blueEconomy":{
+            "name":"Économie bleue",
+            "content":"Exploiter l’économie bleue par une approche intégrée ancrée dans la finance et le développement durables."
+         },
+         "digitalTransformation":{
+            "name":"Transformation numérique",
+            "content":"Accélérer la transformation numérique par une approche globale de la société qui place les personnes au centre pour des sociétés inclusives et des économies résilientes."
+         },
+         "climateAction":{
+            "name":"Action pour le climat",
+            "content":"Promouvoir des sociétés décarbonisées et résilientes par une action climatique renforcée et des efforts accrus pour mobiliser le financement climatique."
+         }
+      },
+      "export":{
+         "csv":"Résumé CSV",
+         "pdf":"Résumé PDF",
+         "list":"Liste des projets"
+      },
+      "mv":"Vulnérabilité multidimensionnelle",
+      "mvi":"Indice de vulnérabilité multidimensionnelle"
+   },
+   "portfolio":{
+      "header":"Le portefeuille du PNUD dans les petits États insulaires en développement",
+      "fundingCategories":"Catégories de financement",
+      "fundingSources":"Sources de financement",
+      "chips":{
+         "sidsWithProjects":"PEID avec des projets du PNUD",
+         "unMembsers":"États membres de l’ONU",
+         "projects":"Projets du PNUD",
+         "funding":"Financement total du projet"
+      },
+      "yearsAll":"2012 à 2022",
+      "projects":"Projets",
+      "allSources":"Toutes les sources de financement",
+      "fundingTypes":{
+         "all":"Toutes",
+         "eu":"Union européenne",
+         "donors":"Pays donateurs",
+         "programmeCountries":"Pays du programme",
+         "unAcgencies":"Agences de l’ONU",
+         "unFunds":"Fonds communs de l’ONU",
+         "verticalFunds":"Fonds verticaux",
+         "other":"Autre"
+      },
+      "budget":"Budget",
+      "share":"Part",
+      "projectTitle":"Titre du projet",
+      "year":"Année",
+      "goal":"Objectif",
+      "goalType":"Type d’objectif",
+      "country":"Pays",
+      "fundingInfo":"Si une source ou une catégorie de financement spécifique est spécifiée, elle est utilisée comme un filtre pour tous les projets qui incluent cette source de financement. Le diagramme circulaire peut être utilisé pour visualiser le cofinancement entre les catégories de financement sur la base de la liste complète des donateurs contribuant à cette liste filtrée de projets",
+      "export":{
+         "intro":"Le PNUD dispose d'un vaste portefeuille qui aide les PEID à faire avancer leurs priorités nationales de développement. Le soutien du PNUD est assuré par une forte présence dans le Pacifique, les Caraïbes et les EAE. Elle dispose d'un réseau de huit bureaux multi-pays ainsi que de bureaux nationaux autonomes à Bahreïn, au Cabo Verde, aux Comores, à Cuba, en République dominicaine, en Guinée-Bissau, en Haïti, aux Maldives, en Papouasie-Nouvelle-Guinée, à São Tomé et Príncipe et au Timor-Leste. S'appuyant sur les efforts de réponse immédiate, l'offre du PNUD, Rising Up for SIDS, renforce son soutien, en envisageant un redressement à long terme pour accélérer le développement durable. Le PNUD étend son assistance dans trois multiplicateurs qui peuvent accélérer les progrès, promouvoir un redressement transformateur et inclusif, et s'appuyer sur l'avantage comparatif et l'expertise spécifique de l'organisation. Ces piliers de l'offre consistent à renforcer l'action climatique, à propulser les économies bleues et à catalyser la transformation numérique.",
+         "sdgs":"Les objectifs de développement durable (ODD), également connus sous le nom d'objectifs mondiaux, ont été adoptés par les Nations unies en 2015 comme un appel universel à l'action pour mettre fin à la pauvreté, protéger la planète et faire en sorte que, d'ici 2030, tous les peuples jouissent de la paix et de la prospérité. En mesurant l'allocation budgétaire et le nombre de projets du PNUD à travers les objectifs, cela permet d'avoir une vue sur le domaine d'intervention du PNUD dans les pays ou régions des PEID",
+         "samoa":"Les orientations de SAMOA (Modalités d'action accélérées des petits États insulaires en développement) réaffirme que les PEID restent un cas particulier pour le développement durable, reconnaissant l'appropriation et la direction des PEID pour surmonter ces défis. Les orientations présente 16 domaines prioritaires interdépendants pour le développement des PEID, avec un cadre d'actions complet",
+         "signature-solutions":"Pour remplir les objectifs du Plan stratégique avec la multidimensionnalité et la complexité qu'exige le Programme 2030, le PNUD met en œuvre six approches transversales du développement, connues sous le nom de <b>solutions types</b>. Un moyen robuste et intégré de mettre notre meilleur travail - ou notre ensemble de compétences « types » ; au service de la réalisation des objectifs de développement durable.</p>",
+         "pillars":"L'offre du PNUD pour les PEID (Rising Up for SIDS) présente une approche intégrée permettant d'exploiter les domaines ayant le potentiel d'accélérer la relance verte et de transformer les sociétés en s'appuyant sur trois piliers interconnectés et répond aux ambitions et aux demandes exprimées par les PEID lors de l'examen à mi-parcours de 2019 des orientations de S.A.M.O.A."
+      }
+   },
+   "countryProfile":{
+      "header":"Profil du pays",
+      "allSids":"Tous les PEID",
+      "infoBox":{
+         "region":"Région",
+         "office":"Bureau national",
+         "memberState":"État membre (O/N)",
+         "population":"Population",
+         "lang":"Langue officielle",
+         "area":"Surface",
+         "income":"Classification des revenus",
+         "incomeLowMiddle":"Revenu moyen inférieur",
+         "incomeHigh":"Revenu élevé",
+         "incomeUpMiddle":"Revenu moyen supérieur",
+         "hdi":"Indice de développement humain",
+         "hdiHigh":"Développement humain élevé",
+         "hdiMedium":"Développement humain moyen",
+         "hdiLow":"Développement humain faible",
+         "gini":"Coefficient de Gini",
+         "countryPage":"Page Pays",
+         "overlayCountries":"Superposer les pays pour comparer le rang des indicateurs",
+         "among":"parmi",
+         "sidsCountires":"Pays PEID",
+         "globally":"Au niveau international",
+         "regionally":"Au niveau régional",
+         "radarAnnotation":"Les valeurs des graphiques radar pour chacun des piliers de l’Offre PEID sont affichées par rang à des fins de visualisation, parmi lesquelles"
+      }
+   },
+   "gis":{
+      "legend":{
+         "noData":"Aucune donnée pour cette région",
+         "selectDataset":"Sélectionner un ensemble de données et des couches pour afficher les données sur la carte.",
+         "x":"Axe X",
+         "y":"Axe Y"
+      },
+      "controller":{
+         "rightDataset":"Ensemble de données à droite",
+         "secondDataset":"Deuxième ensemble de données",
+         "rightLayer":"Couche droite",
+         "secondLayer":"Deuxième couche",
+         "leftLayer":"Couche gauche",
+         "firstLayer":"Première couche",
+         "layer":"Couche",
+         "leftDataset":"Ensemble de données à gauche",
+         "firstDataset":"Premier ensemble de données",
+         "dataset":"Ensemble de données"
+      },
+      "toolbar":{
+         "pageName":"Plate-forme géospatiale des PEID",
+         "dataReference":"Référence",
+         "defaultMessage":"Sélectionner un ensemble de données ci-dessus pour ajouter cette couche à la carte. D’autres personnalisations visuelles sont disponibles dans la barre d’outils à droite, ainsi que des outils d’analyse pour comparer des ensembles de données ou des valeurs régionales.",
+         "mode3d":[
+            "Mode 3D",
+            " - Visualiser les valeurs des données en 3D"
+         ],
+         "boundary":[
+            "Frontières",
+            " - Permet de basculer l’affichage des limites administratives."
+         ],
+         "basemap":[
+            "Modifier la carte de base",
+            " - Passer de l’imagerie satellite à des thèmes cartographiques abstraits."
+         ],
+         "satellite":"Satellite Imagery",
+         "light":"Thème clair",
+         "dark":"Thème sombre",
+         "bivar":[
+            "Mode bivarié",
+            " - Visualiser les relations entre deux ensembles de données en mode bivarié"
+         ],
+         "color":[
+            "Schéma de couleurs",
+            " - Changer entre plusieurs palettes de couleurs pour les données affichées"
+         ],
+         "countrySelect":[
+            "Sélection du pays",
+            " - Focaliser la carte sur le pays ou la région qui vous intéresse"
+         ],
+         "comparison":[
+            "Comparaison",
+            " - Activer un curseur glissant pour comparer visuellement les ensembles de données."
+         ],
+         "labels":[
+            "Étiquettes de carte",
+            " - Activation/désactivation des étiquettes (villes, routes, etc.)"
+         ],
+         "opacity":[
+            "Opacité",
+            " - Modifier l’opacité des couches de données"
+         ],
+         "regionalAnalysis":[
+            "Analyse régionale",
+            " - Dessiner une zone d’intérêt pour calculer les statistiques de la région."
+         ],
+         "resolution":[
+            "Résolution",
+            " - Choisir différents niveaux d’agrégation de la couche de données."
+         ],
+         "hexbins":"Hexbins",
+         "administrativeRegions":"Régions administratives",
+         "level1":"Niveau 1",
+         "level2":"Niveau 2",
+         "value":"Valeur",
+         "class":"Classe",
+         "firstValue":"Première valeur",
+         "regionalStatistics":"Statistiques régionales",
+         "mean":"Moyenne"
+      },
+      "header":"Données géospatiales",
+      "compareEnabled":"Mode de comparaison activé",
+      "bivarEnabled":"Mode bivarié activé"
+   },
+   "indicators":{
+      "tabs":{
+         "spider":"Araignée",
+         "bars":"Diagramme à barres",
+         "global":"Vue d’ensemble",
+         "series":"Séries chronologiques",
+         "choro":"Choroplèthe"
+      },
+      "forms":{
+         "chartType":"Type de graphique",
+         "indicator":"Indicateur",
+         "dimension":"Dimension",
+         "region":"Région",
+         "recent":"Valeur récente"
+      },
+      "filters":{
+         "rank":"Rank",
+         "region":"Région"
+      },
+      "mvi":{
+         "environmental":"Environnement",
+         "mvi-ldc-VIC-Index":"Victimes de catastrophes",
+         "mvi-ldc-AFF-Index":"Agriculture et pêche (% du PIB)",
+         "geographic":"Géographique",
+         "mvi-ldc-REM-Index":"Éloignement",
+         "mvi-ldc-DRY-Index":"Population dans les zones arides",
+         "mvi-ldc-LECZ-Index":"Pourcentage de la population dans les zones côtières",
+         "economic":"Économie",
+         "mvi-ldc-XCON-Index":"Concentration des exportations",
+         "mvi-ldc-XIN-Index":"Instabilité des exportations",
+         "mvi-ldc-AIN-Index":"Instabilité agricole",
+         "financial":"Financier",
+         "mvi-wdi2-ST-INT-RCPT-XP-ZS":"Recettes du tourisme (% des exportations)",
+         "mvi-wdi-BX-TRF-PWKR-DT-GD-ZS":"Envois de fonds (% du PIB)",
+         "mvi-wdi-BX-KLT-DINV-WD-GD-ZS":"Flux d’IDE (% du PIB)"
+      },
+      "headerIndicators":"Indicateurs de développement",
+      "headerMVI":"Indice de vulnérabilité multidimensionnelle",
+      "mviFilters":{
+         "mvi":"MVI",
+         "evi":"EVI",
+         "custom":"Personnalisé"
+      }
+   },
+   "about":{
+      "header":"À propos de la plate-forme de données PEID",
+      "whatSids":"Que sont les petits États insulaires en développement ?",
+      "whatSidsContent":[
+         "Les <a href='http://unohrlls.org/about-sids/'>petits États insulaires en développement (PEID)</a> constituent un groupe distinct de 38 États membres de l’ONU et de 20 États non membres de l’ONU/membres associés des commissions régionales des Nations unies, qui sont confrontés à des vulnérabilités sociales, économiques et environnementales uniques. Les trois régions géographiques dans lesquelles se trouvent les PEID sont : les Caraïbes, le Pacifique, et l’Atlantique, l’océan Indien et la mer de Chine méridionale (AIS).",
+         "Les PEID ont été reconnus comme un cas particulier tant pour leur environnement que pour leur développement lors de la Conférence des Nations Unies sur l’environnement et le développement qui s’est tenue à Rio de Janeiro (Brésil) en 1992.",
+         "La population totale de tous les PEID est de 65 millions d’habitants, soit un peu moins de 1 % de la population mondiale, mais ce groupe est confronté à des défis sociaux, économiques et environnementaux uniques.",
+         "Les PEID sont confrontés à une multitude de défis, dont, pour beaucoup, leur éloignement géographique. En conséquence, de nombreux PEID sont confrontés à des coûts élevés d’importation et d’exportation de marchandises ainsi qu’à des volumes de trafic international irréguliers. Pourtant, ils doivent compter sur les marchés extérieurs pour de nombreux biens en raison de l’étroitesse de leur base de ressources."
+      ],
+      "whatOffer":"Qu’est-ce que l’Offre PEID du PNUD ?",
+      "whatOfferContent":[
+         "L’offre du PNUD pour les PEID - <a href='https://www.sparkblue.org/dashboard/small-island-developing-states'>Rising Up for SIDS - </a> présente une approche intégrée pour exploiter les domaines ayant le potentiel d’accélérer la relance verte et de transformer les sociétés, sur la base de trois piliers interconnectés : Action pour le climat, économie bleue et transformation numérique. L’offre répond aux ambitions et aux demandes exprimées par les PEID lors de l’examen à mi-parcours de 2019 des Orientations de Samoa. Elle comprend des mesures renforçant l’engagement programmatique du PNUD, augmentant notre capacité à répondre aux défis urgents et améliorant l’agilité organisationnelle.",
+         "Action pour le climat - Promouvoir des sociétés décarbonisées et résilientes grâce à une action renforcée pour le climat et à des efforts accrus pour mobiliser le financement climatique.</p>",
+         "Économie bleue - Exploiter l’économie bleue par une approche intégrée ancrée dans la finance et le développement durables.</p>",
+         "Transformation numérique - Accélérer la transformation numérique par une approche globale de la société qui place les personnes au centre pour des sociétés inclusives et des économies résilientes.",
+         "Financement du développement - Aider les PEID à mobiliser des fonds pour le développement en saisissant les opportunités d’innovation financière telles que : les solutions de finance bleue, l’assurance des risques, catalyser l’investissement du secteur privé et tirer parti de la mobilisation des ressources nationales."
+      ],
+      "whatPlatform":"Qu’est-ce que la plate-forme de données PEID ?",
+      "whatPlatformContent":"La plateforme de données du PNUD pour les petits États insulaires en développement est un outil numérique destiné à accélérer le développement des PEID en fournissant aux décideurs politiques, aux institutions de recherche et aux bureaux nationaux un accès à des données actualisées, normalisées et complètes. En tant qu’élément central de l’Offre PEID du PNUD, les fonctionnalités de visualisation et d’analyse de cette plateforme aideront les PEID à répondre aux Orientations de Samoa et au Programme de développement durable à l’horizon 2030 en relevant les défis urgents du changement climatique et de leur transition verte et bleue. En se concentrant sur les besoins des PEID, cet outil a été conçu spécifiquement pour présenter des jeux de données sur la transformation numérique, l’économie bleue et l’action climatique. Il existe trois principaux types de données au sein de la plateforme de données PEID, notamment des données sur le portefeuille de projets et d’investissements du PNUD dans les PEID, des indicateurs de développement au niveau national et des données géospatiales. Pour chaque type de données, nous avons développé des interfaces au sein de la plateforme pour visualiser, analyser et exporter ces données.",
+      "whatSources":"Quelles sont les sources de données utilisées ?",
+      "whatSourcesContent":"La plateforme de données sur les PEID utilise tous les ensembles de données accessibles au public provenant d’une large base d’agences partenaires et de publications de recherche. Il s’agit de données provenant de la Banque mondiale, de l’OMS, de l’UNICEF, du DESA, de l’IRENA, de l’UIT, de l’IGRAC, de l’IHME, de la FAO, de la CNUCED, de Yale, du CIESIN, de l’OCDE, de l’OIT et de nombreuses autres sources. Toutes les citations sont fournies avec le jeu de données correspondant au sein de la plateforme. Nous nous sommes efforcés de sélectionner les données afin de présenter des informations fiables, précises et complètes.",
+      "whatFuture":"Quelles sont les futures étapes de développement de cette plateforme de données ?",
+      "whatFutureContent":"La phase actuelle s’est concentrée sur l’agrégation et la visualisation d’ensembles de données publiques relatives au développement dans les PEID afin de soutenir l’élaboration des politiques et d’offrir une opportunité de collaboration internationale, régionale et sous-régionale entre PEID et PEID. Dans la phase suivante, nous avons l’intention d’utiliser ces ensembles de données collationnées pour créer des outils d’analyse qui identifient les tendances et génèrent des idées spécifiquement axées sur les défis du développement et les solutions pertinentes pour les PEID.",
+      "whatContact":"Qui dois-je contacter pour en savoir plus ?",
+      "whatContactContent":[
+         "Pour en savoir plus sur l’Offre PEID du PNUD, rendez-vous sur notre <a href='https://www.sparkblue.org/dashboard/small-island-developing-states'> page SparkBlue</a>.",
+         "Pour toute question concernant l’Offre PEID du PNUD, « Rising up for SIDS », contactez :",
+         "Riad Meddeb, conseiller principal pour les PEID",
+         "Pour toute question technique concernant la plate-forme, contactez :",
+         "Benjamin Keller, spécialiste des données relatives aux PEID"
+      ],
+      "fBulletin":"Suivez notre Bulletin bihebdomadaire sur les PEID"
+   },
+   "finance":{
+      "key-wdi2-NY-GDP-DEFL-KD-ZG":"Croissance du PIB (% annuel)",
+      "key-wdi2-NY-GDP-PCAP-CD":"PIB par habitant (US$ actuels)",
+      "key-wdi2-NY-GDP-MKTP-KD-ZG":"Inflation, déflateur du PIB (% annuel)",
+      "key-wdi-BN-CAB-XOKA-GD-ZS":"Balance des comptes courants (% du PIB)",
+      "key-wdi-FR-INR-RINR":"Taux d’intérêt réel (%)",
+      "key-wdi-GC-DOD-TOTL-GD-ZS":"Dette de l’administration centrale, total (% du PIB)",
+      "key-wdi-FB-BNK-CAPA-ZS":"Ratio capital/actif des banques (%)",
+      "key-mvi-wdi-BX-TRF-PWKR-DT-GD-ZS":"Envois de fonds personnels, reçus (% du PIB)",
+      "key-wdi-DT-DOD-DECT-GN-ZS":"Encours de la dette extérieure (% du RNB)",
+      "key-wdi-BX-KLT-DINV-CD-WD":"Investissements directs étrangers, flux nets (BoP, US$ courants)",
+      "key-wdi-BM-KLT-DINV-CD-WD":"Investissement direct étranger, sorties nettes (BoP, US$ courants)",
+      "key-wdi-DT-ODA-ODAT-PC-ZS":"APD nette reçue par habitant (US$ courants)",
+      "key-wdi-DT-ODA-ODAT-GN-ZS":"APD nette reçue (% du RNB)",
+      "key-wdi2-NE-TRD-GNFS-ZS":"Commerce (% du PIB)"
+   },
+   "tooltips":{
+      "mviSelectTooltip":{
+         "title":"MVI",
+         "content":"<p>En réponse au contexte unique des PEID et au manque aigu de financement exacerbé par la pandémie de COVID-19, le PNUD a développé un <a href='https://www.undp.org/publications/towards-multidimensional-vulnerability-index'> indice de vulnérabilité multidimensionnel (MVI) </a> pour refléter les risques traditionnels et émergents auxquels sont confrontés non seulement les PEID mais aussi tous les pays en développement. Le MVI répond aux appels des PEID en faveur d’une réévaluation de l’éligibilité aux financements concessionnels au-delà du niveau de revenu, afin d’appréhender avec précision la vulnérabilité des PEID. Le MVI prolonge l’indice de vulnérabilité économique (EVI) en ajoutant la catégorie d’indicateurs financiers pour atteindre un total de 11 indicateurs, et les résultats montrent que tous les PEID, sauf cinq, sont beaucoup plus vulnérables que leur niveau de revenu ne le suggère. </p>"
+      },
+      "eviSelectTooltip":{
+         "title":"EVI",
+         "content":"<p>L’indice de vulnérabilité économique (EVI) et environnementale est actuellement utilisé comme l’un des trois critères d’inclusion dans la catégorie des pays les moins avancés (PMA). Il intègre trois dimensions de la vulnérabilité : économique, géographique et environnementale. Avec le revenu national brut (RNB) par habitant et l’indice du capital humain (HAI), des seuils sont fixés pour l’établissement des critères de PMA. En 2021, 46 pays sont inclus dans cette catégorie. Les PMA représentent environ 14 % de la population mondiale, mais moins de 1,3 % du produit intérieur brut (PIB) mondial et environ 1 % du commerce mondial.</p>"
+      },
+      "portfolioTooltip-sdgs":{
+         "title":"Objectifs de développement durable",
+         "content":"<p>Les objectifs mondiaux conçus pour guider le développement en vue d’un avenir meilleur et plus durable pour tous, mis en place par l’Assemblée générale des Nations Unies en 2015 et qui doivent être atteints en 2030, conformément au Programme 2030.</p>"
+      },
+      "portfolioTooltip-samoa":{
+         "title":"Orientations de Samoa",
+         "content":"<p>Les <b>Orientations de Samoa</b> (Modalités d’action accélérées des petits États insulaires en développement) réaffirme que les PEID restent un cas particulier pour le développement durable, reconnaissant l’appropriation et le leadership des PEID pour surmonter ces défis.</p>"
+      },
+      "portfolioTooltip-solutions":{
+         "title":"Solutions types",
+         "content":"<p>Pour atteindre les objectifs du Plan stratégique avec la multidimensionnalité et la complexité qu’exige le Programme 2030, le PNUD met en œuvre six approches transversales du développement, connues sous le nom de <b>Solutions types</b>.</p>"
+      },
+      "profiletooltip-blue":{
+         "title":"Économie bleue",
+         "content":"<p><b>Exploiter l’économie bleue par une approche intégrée ancrée dans la finance et le développement durables.</b> La superficie océanique combinée des PEID est 20,7 fois supérieure à celle de leur territoire terrestre. Cette énorme différence entre la taille du territoire souverain dans l’océan et sur terre souligne le potentiel des PEID à tirer de plus grands avantages socio-économiques de leurs économies bleues durables. L’économie bleue est définie comme l’utilisation durable des ressources océaniques pour la croissance économique, l’emploi et l’inclusion sociale et financière, en mettant l’accent sur la préservation et la restauration de la santé des écosystèmes océaniques. Les opportunités d’économie bleue durable dans les PEID couvrent un large spectre, y compris les secteurs dominants existants dans la pêche et le tourisme côtier ainsi que les nouveaux contributeurs réels ou potentiels tels que l’aquaculture, l’énergie océanique (vagues, marées et vent), le pétrole et le gaz offshore, le transport maritime durable, le dessalement, la recherche et l’éducation et les ressources génétiques marines. L’économie bleue peut également inclure des avantages économiques non marchands tels que le stockage du carbone, la protection des côtes, les valeurs culturelles et la biodiversité.</p>"
+      },
+      "profileTooltip-digital":{
+         "title":"Transformation numérique",
+         "content":"<p><b>Accélérer la transformation numérique par une approche globale de la société qui place les personnes au centre pour des sociétés inclusives et des économies résilientes.</b>Les PEID sont à un moment de grande promesse, presque révolutionnaire, en ce qui concerne la technologie numérique. De petite taille, elles peuvent offrir des conditions idéales en tant qu’incubateurs d’innovation, permettant de mettre au point de nouvelles technologies qui peuvent être testées, reproduites et transposées ailleurs. Les PEID peuvent devenir des pionniers dans l’utilisation des technologies numériques pour accélérer le développement durable et atténuer bon nombre des défis auxquels ils sont confrontés. Les PEID s’efforcent de relever les défis liés aux infrastructures de base et à la connectivité nécessaires pour faire ce saut. Des progrès significatifs en matière de connectivité ont mis les PEID sur la voie de la réalisation des objectifs d’universalité et d’accessibilité financière de l’accès à l’internet. Selon les tendances actuelles, la couverture du haut débit mobile atteindra près de 90 % de la population.</p>"
+      },
+      "profileTooltip-climate":{
+         "title":"Action pour le climat",
+         "content":"<p><b>Promouvoir des sociétés décarbonisées et résilientes par une action climatique renforcée et des efforts accrus pour mobiliser le financement climatique.</b>Les PEID sont en première ligne de la crise climatique, mais ils sont également à l’avant-garde des solutions climatiques. Les PEID ont partagé leur détermination collective à atteindre des émissions nettes nulles d’ici 2050, avec des initiatives et des partenariats transversaux axés sur les PEID et définis par eux. Les PEID ont pris des engagements audacieux pour mettre à jour leurs contributions déterminées au niveau national (CDN) et élaborer des plans et stratégies globaux pour réduire les émissions de gaz à effet de serre dans les contextes insulaires, assurer la transformation énergétique et améliorer la capacité d’adaptation. Alors que les PEID prennent des mesures pour répondre à la crise de la COVID-19 et s’en remettre, une action climatique ambitieuse et rapide reste en tête de leurs agendas. Les perturbations des chaînes de valeur mondiales ayant mis en évidence la précarité de l’approvisionnement énergétique dans les PEID, la transformation des systèmes énergétiques par le renforcement de la résilience et de l’autosuffisance est au cœur du premier pilier de l’offre du PNUD.</p>"
+      },
+      "profileTooltip-finance":{
+         "title":"Finances",
+         "content":"<p>Pour le PNUD, la mise en œuvre de son offre élargie pour les PEID implique de renforcer le capital humain et l’empreinte de l’organisation dans les PEID, en s’appuyant sur une série d’initiatives existantes telles que le réseau de laboratoires d’accélération et la toute première stratégie numérique de l’organisation (20182021). L’exécution nécessitera également de faire appel à tous les actifs du PNUD, y compris les Volontaires des Nations Unies (VNU), le Fonds d’équipement des Nations Unies (FENU), le  Bureau des fonds d’affectation spéciale pluripartenaires et le Bureau des Nations Unies pour la coopération Sud-Sud. Des liens plus étroits entre les agences seront essentiels pour fournir un soutien complet et adapté. L’accès au financement par des sources innovantes et traditionnelles est un facteur clé pour de nombreux PEID. Le PNUD aide les PEID à accéder aux financements dans quatre domaines :<ul><li>Les financements innovants, y compris les approches de financement mixte et les solutions d’atténuation des risques telles que l’assurance pour la protection contre les catastrophes ex ante, et la protection renforcée des récifs coralliens et d’autres types de capital naturel.</li><li>Financement de la conservation et de la restructuration de la dette (en parallèle avec des conseils en matière de politique fiscale) à l’aide d’obligations bleues et d’obligations de résilience.</li><li>Catalyser l’investissement du secteur privé dans les infrastructures (naturelles et humaines) par le biais d’obligations vertes.</li><li>Tirer parti de la mobilisation des ressources nationales et des rares investissements publics pour trouver d’autres sources de financement du développement durable dans les PEID</li></ul></p>"
+      },
+      "profileTooltip-mvi":{
+         "title":"MVI",
+         "content":"<p>En réponse au contexte unique des PEID et au manque aigu de financement exacerbé par la pandémie de COVID-19, le PNUD a développé un <a href='https://www.undp.org/publications/towards-multidimensional-vulnerability-index'> indice de vulnérabilité multidimensionnel (MVI) </a> pour refléter les risques traditionnels et émergents auxquels sont confrontés non seulement les PEID mais aussi tous les pays en développement. Le MVI répond aux appels lancés par les PEID en faveur d’une réévaluation de l’éligibilité aux financements concessionnels au-delà du niveau de revenu, afin de rendre compte avec précision de la vulnérabilité à laquelle ils sont confrontés. Chacune des dimensions est calculée comme une moyenne des indicateurs normalisés sélectionnés pour cette dimension. Toutes les données proviennent du DESA et de la Banque mondiale.</p>"
+      },
+      "profileTooltip-radar":{
+         "title":"Cartes radar",
+         "content":"<p>Pour visualiser les piliers de l’Offre PEID, six indicateurs ont été sélectionnés pour chacun des domaines suivants : action climatique, économie bleue et transformation numérique. Ces données sont visualisées sur des graphiques radar en fonction du rang dans lequel se situent ces valeurs lorsqu’elles sont regroupées par valeurs mondiales, parmi les PEID, ou par région. Ces graphiques sont destinés à donner une idée générale de la façon dont les pays se comparent. L’utilisateur peut également sélectionner d’autres pays à superposer pour les comparer directement avec les pays voisins et visualiser les différences et les similitudes. Ces valeurs classées sont destinées à servir de guide visuel approximatif et ne représentent en aucun cas un classement qualitatif des pays qui nécessite une perspective plus analytique du développement et du rôle de ces indicateurs qui contribuent aux diverses conditions socio-économiques de chacun des PEID.</p>"
+      },
+      "aboutThis-ai":{
+         "title":"À propos",
+         "content":"<p>Intervalle de prédiction - Un intervalle de prédiction est une plage de valeurs qui représente la prédiction pour une valeur manquante, sur la base du modèle formé. Les intervalles de prédiction indiqués ici sont des intervalles de prédiction à 90 %. Elles représentent la certitude du modèle que la valeur prédite se situera dans cette plage 90 % du temps. </p><p>NRMSE - L'erreur quadratique moyenne normalisée (NRMSE) est une normalisation de la mesure de performance de l'erreur quadratique moyenne (RMSE) pour faciliter la comparaison entre des modèles de différentes échelles, de sorte que la NRMSE peut être interprétée comme une fraction de la plage globale qui est généralement résolue par le modèle. Les valeurs NRMSE proches de 0 suggèrent une bonne performance du modèle et celles proches de 1 une mauvaise performance du modèle.</p>"
+      },
+      "aboutThis-portfolio":{
+         "title":"À propos",
+         "content":"<p> Visualisez le portefeuille du PNUD pour les PEID en fonction de l’allocation budgétaire pour les ODD, les priorités des Orientations de Samoa et les six solutions types du PNUD. Vous pouvez filtrer par région, année, catégorie de financement et donateur.</p><p>Toutes les données proviennent du Portail de la transparence du PNUD à l’adresse suivante : https://open.undp.org/. Il présente des informations détaillées sur les plus de 5 000 projets de développement du PNUD dans quelque 170 pays et territoires du monde entier. Le Portail de la transparence représente l’engagement du PNUD à publier des informations complètes, de qualité et opportunes sur les flux et les résultats de l’aide. Les activités opérationnelles du système de développement des Nations Unies et du PNUD se caractérisent par l’universalité de leur présence, l’impartialité, l’approche multisectorielle et la nature non conditionnelle des subventions.</p>"
+      },
+      "aboutThis-indicators":{
+         "title":"À propos",
+         "content":"<p> Les données et métadonnées de plus de 20 bases de données statistiques et études de recherche accessibles au public ont été compilées et normalisées en un produit de données complet. Nous nous sommes efforcés de sélectionner les données afin de présenter des informations fiables, précises et complètes dans les nombreux secteurs du développement les plus pertinents pour les PEID. Les données peuvent être triées par ensemble de données, catégorie et sous-catégorie, puis visualisées sous forme de carte choroplèthe, de vue globale, de diagramme à barres et de série chronologique. </p>"
+      },
+      "aboutThis-profiles":{
+         "title":"À propos",
+         "content":"<p>Avec ces indicateurs, nous avons également élaboré des profils de pays avec des données clés sur le développement à travers les piliers de l’Offre PEID du PNUD, ainsi que des informations financières et des indices de vulnérabilité. Vous pouvez y superposer d’autres pays pour comparer les valeurs classées parmi les PEID et les valeurs régionales ou mondiales. Ces données de profil de pays sont toutes disponibles pour l’exportation en format pdf ou csv pour une analyse plus approfondie. Les valeurs sont visualisées en fonction de leur classement par rapport aux valeurs mondiales ou régionales, qui sont quantitatives uniquement à des fins de visualisation et ne représentent aucun classement des pays de la part du PNUD. </p>"
+      },
+      "aboutThis-gis":{
+         "title":"À propos",
+         "content":"<p> La base de données SIG des PEID est compilée et normalisée à partir d’ensembles de données accessibles au public publiés dans des études de recherche, des agences des Nations Unies et des organisations statistiques. L’utilisateur peut choisir parmi un ensemble de couches comprenant des données socio-économiques telles que la densité de population, l’accès aux marchés et le PIB, ainsi que des indices de potentiel de développement tels que le potentiel d’énergie éolienne ou solaire. En sélectionnant une priorité des ODD ou des Orientations de Samoa, l’utilisateur peut filtrer les ensembles de données en fonction d’un seul domaine d’intérêt. Ces données peuvent être visualisées à de multiples résolutions, ainsi qu’en 2D ou 3D, avec des superpositions supplémentaires d’ensembles de données vectorielles comme les limites administratives. Des outils supplémentaires de visualisation et d’analyse permettent aux utilisateurs de construire leurs propres cartes et d’exporter ces visuels pour la communication et les rapports. Les données peuvent être consultées à partir de la source originale ou dans notre base de données en contactant notre équipe. </p>"
+      },
+      "aboutThis-mvi":{
+         "title":"À propos",
+         "content":"<p>En réponse au contexte unique des PEID et au manque aigu de financement exacerbé par la pandémie de COVID-19, le PNUD a développé un<a href='https://www.undp.org/publications/towards-multidimensional-vulnerability-index' target='_blank'> <b>indice de vulnérabilité multidimensionnel (MVI)</b> </a> permettant de refléter les risques traditionnels et émergents auxquels sont confrontés non seulement les PEID mais aussi tous les pays en développement. Le MVI répond aux appels des PEID en faveur d’une réévaluation de l’éligibilité aux financements concessionnels au-delà du niveau de revenu, afin d’appréhender avec précision la vulnérabilité des PEID. Le MVI est un indice composite de quatre dimensions de la vulnérabilité : environnementale, géographique, économique et financière. Chaque dimension est calculée comme une moyenne des indicateurs normalisés sélectionnés pour cette dimension. En utilisant 11 indicateurs pour 128 pays (dont 34 PEID), le MVI démontre que tous les PEID, sauf cinq, sont beaucoup plus vulnérables que leur niveau de revenu ne le suggère. En outre, une simulation comparant les PEID aux PMA démontre que, si le MVI était utilisé comme critère de financement (plutôt que le seul revenu par habitant), les PEID économiseraient en moyenne 1,5 % de leur PIB par an en paiements d’intérêts.</p> <p> Les données de ce document sont présentées dans une interface paramétrique avec une version personnalisable de le MVI pour permettre l’analyse des contributions de chaque indicateur à la vulnérabilité des PEID. </p> <p> Toutes les données proviennent de le DESA et de la Banque mondiale. </p>"
+      }
+   },
+   "spiders":{
+      "definition":"Définition",
+      "source":"Source",
+      "rank":"Rang",
+      "value":"Valeur",
+      "key-hdr-181606":{
+         "def":"Mesure du risque global d’extinction pour des groupes d’espèces. Elle est basée sur les changements réels du nombre d’espèces dans chaque catégorie de risque d’extinction de la liste rouge des espèces menacées de l’Union internationale pour la conservation de la nature et de ses ressources.",
+         "indicator":"Indice de liste rouge"
+      },
+      "key-wdi-ER-PTD-TOTL-ZS":{
+         "def":"Les zones protégées terrestres sont désignées par les autorités nationales comme étant des réserves scientifiques dont l’accès est limité au public, des parcs nationaux, des monuments naturels, des réserves naturelles ou des sanctuaires de la vie sauvage, des paysages protégés et des zones gérées principalement pour une utilisation durable. Les zones marines protégées sont des zones de terrain intertidal ou subtidal, ainsi que les eaux sus-jacentes et la flore et la faune associées et les caractéristiques historiques et culturelles.",
+         "indicator":"Zones protégées terrestres et marines (pourcentage de la superficie totale du territoire)"
+      },
+      "key-ndgain-nd-vulnerability":{
+         "def":"La vulnérabilité est la propension ou la prédisposition des sociétés humaines à subir les effets négatifs des risques climatiques. ND-GAIN évalue la vulnérabilité d’un pays en prenant en compte six secteurs vitaux : la nourriture, l’eau, la santé, les services écosystémiques, l’habitat humain et les infrastructures.",
+         "indicator":"Indice de vulnérabilité climatique"
+      },
+      "key-wdi-EN-CLC-DRSK-XQ":{
+         "def":"Le score de progrès en matière de réduction des risques de catastrophe est une moyenne des scores d’auto-évaluation, allant de 1 à 5, soumis par les pays au titre de la priorité 1 des rapports nationaux sur l’état d’avancement de la mise en œuvre du Cadre d’action de Hyogo.",
+         "indicator":"Score de progrès en matière de réduction des risques de catastrophe"
+      },
+      "key-wdi-EN-ATM-CO2E-KT":{
+         "def":"Les émissions de dioxyde de carbone sont celles qui proviennent de la combustion de combustibles fossiles et de la fabrication de ciment. Elles comprennent le dioxyde de carbone produit lors de la consommation de combustibles solides, liquides et gazeux et le torchage du gaz.",
+         "indicator":"Émissions de CO2 (kt)"
+      },
+      "key-wdi-EG-FEC-RNEW-ZS":{
+         "def":"La consommation d’énergie renouvelable est la part de l’énergie renouvelable dans la consommation finale totale d’énergie.",
+         "indicator":"Consommation d’énergie renouvelable"
+      },
+      "key-wdi-ER-MRN-PTMR-ZS":{
+         "def":"Les zones marines protégées sont des zones de terrain intertidal ou subtidal (et les eaux sus-jacentes ainsi que la flore et la faune associées et les caractéristiques historiques et culturelles) qui ont été réservées par la loi ou d’autres moyens efficaces pour protéger une partie ou la totalité de l’environnement clos.",
+         "indicator":"Zones marines protégées (pourcentage de la ZEE)"
+      },
+      "key-ports":{
+         "indicator":"Nombre de ports"
+      },
+      "key-epi-FSS":{
+         "def":"L’état des réserves de poissons évalue le pourcentage de la capture totale d’un pays qui provient de réserves surexploitées ou effondrées, en considérant toutes les réserves de poissons dans les ZEE d’un pays. ",
+         "indicator":"Indice de performance environnementale/État des réserves de poissons"
+      },
+      "key-46":{
+         "def":"La contribution totale des voyages et du tourisme au PIB reflète le PIB généré directement par le secteur des voyages et du tourisme plus ses répercussions indirectes et induites.",
+         "indicator":"Recettes du tourisme international en % du PIB"
+      },
+      "key-wdi-IS-SHP-GOOD-TU":{
+         "def":"Le trafic portuaire de conteneurs mesure le flux de conteneurs entre les modes de transport terrestre et maritime, et vice versa, en unités équivalentes à vingt pieds (EVP), un conteneur de taille standard.",
+         "indicator":"Trafic des ports à conteneurs (EVP)"
+      },
+      "key-ohi-index-score":{
+         "def":"L’indice de santé des océans est un outil d’évaluation qui mesure scientifiquement les éléments essentiels de toutes les dimensions de la santé des océans (biologique, physique, économique et sociale) afin de guider les décideurs vers l’utilisation durable de l’océan.\\nLe score final de l’OHI qui tient compte de l’état actuel et de l’état futur prévu.",
+         "indicator":"Indice des santé des océans"
+      },
+      "key-egov-osi":{
+         "def":"L’indice des service en ligne mesure l’utilisation des TIC par les gouvernements sur la base d’une enquête sur la présence en ligne des États membres.",
+         "indicator":"Indice des services en ligne"
+      },
+      "key-egov-tii":{
+         "def":"Cet indice est une moyenne de cinq indicateurs pour 100 habitants, dont le nombre estimé d’utilisateurs d’Internet, le nombre de lignes téléphoniques fixes principales, le nombre d’abonnés à la téléphonie mobile, le nombre d’abonnements au haut débit sans fil et le nombre d’abonnements au haut débit fixe. ",
+         "indicator":"Indice des infrastructures de télécommunications"
+      },
+      "key-egov-hci":{
+         "def":"L’indice de capital humain est une moyenne de quatre indicateurs, dont le taux d’alphabétisation des adultes, le taux brut de scolarisation, les années estimées de scolarisation et les années moyennes de scolarisation.",
+         "indicator":"Indice de capital humain"
+      },
+      "key-egov-egi":{
+         "def":"L’indice de développement de l’administration électronique est une moyenne pondérée de l’indice des services en ligne, de l’indice de l’infrastructure de télécommunication, de l’indice de la participation en ligne et de l’indice du capital humain.",
+         "indicator":"Indice de développement de l’administration électronique"
+      },
+      "key-itu-gci-score":{
+         "def":"L’indice mondial de cybersécurité (GCI) évalue le niveau de développement ou d’engagement de chaque pays selon cinq piliers : i) mesures juridiques, ii) mesures techniques, iii) mesures organisationnelles, iv) développement des capacités et v) coopération.",
+         "indicator":"Indice mondial de cybersécurité (GCI)"
+      },
+      "key-rfti-score":{
+         "def":"L’indice comprend cinq éléments constitutifs : déploiement des TIC, compétences, activité de R&amp;D, activité industrielle et accès au financement.",
+         "indicator":"Indice de préparation aux technologies de pointe"
+      },
+      "key-mvi-ldc-XCON-Index":{
+         "def":"Fournit des informations sur l’exposition aux chocs commerciaux résultant d’une structure d’exportation concentrée. Mesure la concentration par produit des exportations d’un pays.",
+         "indicator":"Concentration des exportations"
+      },
+      "key-mvi-ldc-XIN-Index":{
+         "def":"La déviation standard de la différence entre la valeur des recettes annuelles d’exportation et sa tendance sur 20 ans.",
+         "indicator":"Instabilité des exportations"
+      },
+      "key-mvi-ldc-AIN-Index":{
+         "def":"Défini comme l’écart-type de la différence entre la production agricole et sa tendance sur 20 ans",
+         "indicator":"Instabilité agricole"
+      },
+      "key-mvi-wdi2-ST-INT-RCPT-XP-ZS":{
+         "def":"Les recettes du tourisme international sont les dépenses des visiteurs internationaux entrants, y compris les paiements aux transporteurs nationaux pour le transport international.",
+         "indicator":"Recettes du tourisme en tant que part des exportations"
+      },
+      "key-wdi-BX-TRF-PWKR-DT-GD-ZS":{
+         "def":"Les transferts de fonds personnels comprennent les transferts personnels et la rémunération des employés.",
+         "indicator":"Envois de fonds en pourcentage du PIB"
+      },
+      "key-mvi-wdi-BX-KLT-DINV-WD-GD-ZS":{
+         "def":"Les investissements étrangers directs (IED) sont les entrées nettes d’investissements : la somme des capitaux propres, du réinvestissement des bénéfices, des autres capitaux à long terme et des capitaux à court terme tels qu’ils apparaissent dans la balance des paiements.",
+         "indicator":"Flux d’IDE en pourcentage du PIB"
+      },
+      "key-mvi-ldc-AFF-Index":{
+         "def":"Défini comme la part en pourcentage des secteurs de l’agriculture, de la chasse, de la sylviculture et de la pêche dans la valeur ajoutée brute d’un pays.",
+         "indicator":"Agriculture et pêche en pourcentage du PIB"
+      },
+      "key-mvi-ldc-VIC-Index":{
+         "def":"Mesure la part de la population qui est victime de catastrophes, définie comme les personnes tuées ou affectées (c’est-à-dire nécessitant une alimentation immédiate, de l’eau, un abri, des installations sanitaires ou une assistance médicale).",
+         "indicator":"Victimes de catastrophes"
+      },
+      "key-mvi-ldc-REM-Index":{
+         "def":"Défini comme la moyenne pondérée par le commerce de la distance d’un pays par rapport aux marchés mondiaux.",
+         "indicator":"Éloignement"
+      },
+      "key-mvi-ldc-LECZ-Index":{
+         "def":"Population inférieure à 5 mètres est le pourcentage de la population totale vivant dans des zones où l’altitude est inférieure ou égale à 5 mètres.",
+         "indicator":"Part de la population dans les zones côtières à faible altitude"
+      }
+   },
+   "navigationMobile":{
+      "portfolio":"Portfolio",
+      "indicators":"Indicateurs",
+      "mvi":"MVI",
+      "profiles":"Profils",
+      "gis":"SIG",
+      "about":"À propos"
+   },
+   "interfaces": {
+     "header": "Interfaces pour la découverte et l’analyse des données relatives aux PEID",
+     "profiles": {
+       "header": "Profils des pays",
+       "description": "Profils de pays pour les petits États insulaires en développement avec des données sur les piliers de l’Offre PEID du PNUD, des statistiques financières et un indice de vulnérabilité."
+     },
+     "indicators": {
+       "header": "Indicateurs de développement",
+       "description": "Une base de données de plus de 4 000 indicateurs de développement pour les PEID, compilés à partir de 22 sources et présentés avec des outils de visualisation et d’analyse."
+     },
+     "portfolio": {
+       "header": "Portefeuille du PNUD",
+       "description": "Un outil numérique pour analyser le portefeuille d’offres du PNUD pour les PEID à travers les ODD, les priorités des Orientations de Samoa et les six solutions types du PNUD."
+     },
+     "gis": {
+       "header": "Données géospatiales",
+       "description": "Un portail SIG et une base de données sur les PEID, compilés à partir de plus de 80 ensembles de données et études de recherche portant sur les petits États insulaires en développement."
+     },
+     "mvi": {
+       "header": "Indice de vulnérabilité multidimensionnelle",
+       "description": "Un indice de vulnérabilité multidimensionnel (MVI) personnalisable pour les PEID afin d’analyser la vulnérabilité environnementale, géographique, économique et financière."
+     }
+   },
+   "resources": {
+     "header": "Ressources",
+     "open": "ouvrir",
+     "handbook": {
+         "header": "Manuel de données sur les PEID",
+         "badge": "Indicateurs",
+         "description": "Une base de données de plus de 4 000 indicateurs de développement pour les PEID, compilés à partir de 22 sources et présentés avec des outils de visualisation et d’analyse."
+      },
+     "catalog": {
+         "header": "Catalogue SIG des PEID",
+         "badge": "Cartes",
+         "description": "Couches géospatiales normalisées à partir de plus de 80 sources de données uniques, y compris des études open source et des bases de données pertinentes pour le développement dans les PEID."
+     },
+     "manual": {
+       "header": "Manuel de la plate-forme de données du PNUD pour les PEID",
+       "badge": "Manuel",
+       "description": "En savoir plus sur la plate-forme de données PEID et comment interagir avec chaque interface et outil de visualisation et d'analyse de données."
+     }
+   }
+}

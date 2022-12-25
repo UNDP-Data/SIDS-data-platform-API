@@ -90,6 +90,8 @@
       "mv": "Multidimensional Vulnerability",
       "mvi": "Multidimensional Vulnerability Index",
       "header": {
+        "indicator":"indicator",
+        "profile": "profile",
          "header": [
             "Data Platform",
             "for the",
@@ -103,7 +105,8 @@
       "buttons": {
          "export": "export",
          "subscribe": "subscribe",
-         "about": "about this"
+         "about": "about this",
+         "search": "Search"
       },
       "forms": {
          "selectCountries": "Select countries",
@@ -391,7 +394,7 @@
          "among": "among",
          "sids": "SIDS countries",
          "global": "Globally",
-         "mviAnnotation": "Values for each indicator for vulnerability are normalized among all countries with available data on a scale from 0 to 100", 
+         "mviAnnotation": "Values for each indicator for vulnerability are normalized among all countries with available data on a scale from 0 to 100",
          "radarAnnotation" : {
             "global" : "Values for radar charts for each of the pillars of the SIDS Offer are displayed by global rank for visualization purposes",
             "region" : "Values for radar charts for each of the pillars of the SIDS Offer are displayed by regional rank for visualization purposes",
@@ -789,5 +792,55 @@
          "title": "About this",
          "content": "<p> Prediction Interval - A prediction interval is a range of values that represent the prediction for a missing value, based on the trained model. The prediction intervals shown here are 90% prediction intervals. They represent the model's certainty that the predicted value will fall into that range 90% of the time. </p><p> NRMSE - The Normalized Root Mean Square Error (NRMSE) is a standardization of the Root Mean Square Error (RMSE) performance measure to facilitate the comparison between models with different scales, so the NRMSE can be interpreted as a fraction of the overall range that is typically resolved by the model. NRMSE values close to 0 suggest a good performance of the model and those close to 1 suggest poor performance of the model.</p>"
       }
+   },
+   "resources": {
+       "header": "Resources",
+       "open": "open",
+       "handbook": {
+           "header": "SIDS Indicator Handbook",
+           "badge": "Indicators",
+           "description": "A database of over 4000 development indicators for SIDS, compiled from 22 sources and featured alongside visualization and analytic tools."
+       },
+       "catalog": {
+           "header": "SIDS GIS Catalogue",
+           "badge": "Maps",
+           "description": "Geospatial layers standardized from more than 80 unique data sources including open source studies and databases relevant to development in SIDS."
+       },
+       "manual": {
+           "header": "Manual for the UNDP SIDS Data Platform",
+           "badge": "Manual",
+           "description": "Learn more about the SIDS Data Platform and how to interact with each interface and data visualization and analysis tool."
+       },
+       "sidsOffer":{
+         "name": "Rising Up for SIDS Offer",
+         "description": "UNDP’s integrated SIDS offer articulates a clear strategy to respond to their most pressing needs as well as bring forth innovative solutions to the complex developmental challenges they face for a better future for people and planet."
+       },
+      "progressReport":{
+        "name": "UNDP SIDS Progress Report",
+        "description": "A detailed overview the UNDP Rising Up For SIDS Portfolio."
+      }
+   },
+   "interfaces": {
+       "header": "Interfaces for discovery and analysis of SIDS data",
+       "profiles": {
+           "header": "Country Profiles",
+           "description": "Country profiles for Small Island Developing States with data across the pillars of the UNDP’s SIDS Offer, financial statistics, and vulnerability index."
+       },
+       "indicators": {
+           "header": "Development Indicators",
+           "description": "A database of over 4000 development indicators for SIDS, compiled from 22 sources and featured alongside visualization and analytic tools."
+       },
+       "portfolio": {
+           "header": "UNDP Portfolio",
+           "description": "A digital tool for analyzing the UNDP SIDS Offer Portfolio across the SDGs, SAMOA Pathway priorities, and six UNDP Signature Solutions."
+       },
+       "gis": {
+           "header": "Geospatial Data",
+           "description": "A SIDS GIS portal and database compiled from more than 80 datasets and research studies with coverage of Small Island Developing States."
+       },
+       "mvi": {
+           "header": "Multidimensional Vulnerability Index",
+           "description": "A customizable Multidimensional Vulnerability Index (MVI) for SIDS to analyze environmental, geographic, economic, and financial vulnerability."
+       }
    }
 }
